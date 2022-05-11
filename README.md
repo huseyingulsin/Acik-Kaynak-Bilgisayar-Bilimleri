@@ -259,4 +259,39 @@ Ders | Süre | Efor | Tartışma
 [Bilgisayar Bilimleri Eğitiminizin Eksik Dönemi (The Missing Semester of Your CS Education)](https://missing-semester-tr.github.io/) | 2 hafta | 6 saat/hafta |  [chat](https://discord.gg/PUu2EeGS)
 [Orjinal İngilizce Versiyon](https://missing.csail.mit.edu/) | 2 hafta | 6 saat/hafta |  [chat](https://discord.gg/PUu2EeGS)
 
+
+## 5. dönem 
+
+
+#### Bulanık Mantık ve Bulanık Kümeler (Fuzzy Logic and Fuzzy Sets)
+
+Bulanık mantık bir yapay zekâ uygulaması oluşturma prensibidir.
+
+
+Ders | Süre | Efor |  Tartışma
+:-- | :--: | :--: | :--:
+[Bulanık Mantık ve Bulanık Kümeler (Fuzzy Logic and Fuzzy Sets)](https://www.youtube.com/watch?v=YZ9cEUysr5o&list=PLDUOF2Be-kzk8h239p-5knu-D1uR5h33_) | 21 video | 2 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
+[Ek Kaynak: Bulanık Mantık ve Bulanık Kümeler (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=SQowmSHCjuU&t=339s) |  | - | [chat](https://discord.gg/PUu2EeGS)
+[Ek Kaynak: Fuzzy Logic(İngilizce)](https://www.youtube.com/watch?v=hxanquMn3eU&list=PLUVnh0w_cCjIzH0i8B6yQcXs567mST9cQ) |  |   | [chat](https://discord.gg/PUu2EeGS)
+
+#### Veri Madenciliğine Giriş (Introduction to Data Mining)
+
+Veri madenciliği, büyük ölçekli veriler arasından faydalı bilgiye ulaşma, bilgiyi madenleme işidir.
+
+Ders | Süre | Efor |  Tartışma
+:-- | :--: | :--: | :--:
+[Veri Madenciliğine Giriş (Introduction to Data Mining)](https://www.youtube.com/watch?v=niXG2zCXj00&list=PLNVCj-z_HS4YpUuNJ-XbPrfeThCF-ROeb) | 32 video | 3 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
+[Ek Kaynak: Veri Madenciliğine Giriş (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=iButBaRPpBM&list=PLh9ECzBB8tJNScCBWJFoMdpMkCdpnwUEl) |  | - | [chat](https://discord.gg/PUu2EeGS)
+
+#### Algoritmaların Tasarımı ve Analizi (Design and Analysis of Algorithms)
+
+Ders | Süre | Efor |  Tartışma
+:-- | :--: | :--: | :--:
+[Algoritmaların Tasarımı ve Analizi (Design and Analysis of Algorithms)](https://www.youtube.com/watch?v=3bhBo9YCTpo&list=PLh9ECzBB8tJPTWIUbZjHZMMGuZcpHUv5h) | 21 video | 2 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
+[Ek Kaynak: Algoritmaların Tasarımı ve Analizi (Design and Analysis of Algorithms)](https://www.youtube.com/watch?v=_eFseY9EwjM&list=PLfs1gAT4S8yIGKkJw4gbz2ZdmuEBxjGwk) |  | - | [chat](https://discord.gg/PUu2EeGS)
+
+
+
+
+
 devam edecek..
