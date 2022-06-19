@@ -48,7 +48,7 @@ Eğer daha önce hiç kod yazmadıysanız gelecekteki programcılık maceranızd
 Ders | Süre | Efor | Önkoşul | Tartışma
 :-- | :--: | :--: | :--: | :--:
 [C Programlamaya Giriş(Murat Yücedağ)](https://www.youtube.com/watch?v=eIChume5VWQ&list=PLKnjBHu2xXNP-E_TjR-g5Tslm6dW4UH_3) | 60 video | 10 video/hafta | none | [chat](https://discord.gg/PUu2EeGS)
-[Alternatif Kaynak: C Programlamaya Giriş(Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=gHmaZ2zeLu8&list=PL4eNZvHTpYhnACSWVmRBEr1MviDZ26b5E) | 18 video | 2 video/hafta | none | [chat](https://discord.gg/PUu2EeGS)
+[Alternatif Kaynak: C Programlamaya Giriş(Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=gHmaZ2zeLu8&list=PL4eNZvHTpYhnACSWVmRBEr1MviDZ26b5E) | 18 video | 2 video/hafta | none | [chat](https://discord.gg/7rX9TGQh)
 
 #### Bilgisayar Bilimlerine Giriş(Introduction to Computer Science)
 
@@ -58,7 +58,7 @@ Bilgisayar Bilimlerine Giriş dersi için kodluyoruz platformu çok harika iş �
 
 Ders | Süre | Efor | Önkoşul | Tartışma
 :-- | :--: | :--: | :--: | :--:
-[Bilgisayar Bilimlerine Giriş(Introduction to Computer Science)](https://courses.kodluyoruz.org/courses/course-v1:Kodluyoruz+CS50x+2020/about)   | 10 hafta | 1 modül/hafta | Lineer Cebir | [chat](https://discord.gg/PUu2EeGS)
+[Bilgisayar Bilimlerine Giriş(Introduction to Computer Science)](https://courses.kodluyoruz.org/courses/course-v1:Kodluyoruz+CS50x+2020/about)   | 10 hafta | 1 modül/hafta | Lineer Cebir | [chat](https://discord.gg/7rX9TGQh)
 
 
 
@@ -70,7 +70,7 @@ Bilgisayar Bilimleri, matematik disiplininden köken alarak gelişmiş bir disip
 
 Ders | Süre | Efor | Önkoşul | Tartışma
 :-- | :--: | :--: | :--: | :--:
-[Kalkülüs 1 (Calculus 1))](https://www.youtube.com/watch?v=jDZAAWzEH4k&list=PLcNWqzWzYG2v5_R_uPyLRzGXSoYgjfd8C) | 112 video | 11 video/hafta | none | [chat](https://discord.gg/PUu2EeGS)
+[Kalkülüs 1 (Calculus 1))](https://www.youtube.com/watch?v=jDZAAWzEH4k&list=PLcNWqzWzYG2v5_R_uPyLRzGXSoYgjfd8C) | 112 video | 11 video/hafta | none | [chat](https://discord.gg/7rX9TGQh)
 
 #### Lineer Cebir (Linear Algebra)
 
@@ -80,7 +80,7 @@ Bilgisayar Bilimleri, matematik disiplininden köken alarak gelişmiş bir disip
 
 Ders | Süre | Efor | Önkoşul | Tartışma
 :-- | :--: | :--: | :--: | :--:
-[Lineer Cebir (Linear Algebra))](https://www.youtube.com/watch?v=DJ7DoGoU9E0&list=PLcNWqzWzYG2vUwIrhpYTwqm0qboR5yQRA) | 146 video | 14 video/hafta | none | [chat](https://discord.gg/PUu2EeGS)
+[Lineer Cebir (Linear Algebra))](https://www.youtube.com/watch?v=DJ7DoGoU9E0&list=PLcNWqzWzYG2vUwIrhpYTwqm0qboR5yQRA) | 146 video | 14 video/hafta | none | [chat](https://discord.gg/7rX9TGQh)
 
 
 
@@ -95,7 +95,7 @@ Bilgisayar Bilimleri, matematik disiplininden köken alarak gelişmiş bir disip
 
 Ders | Süre | Efor | Önkoşul | Tartışma
 :-- | :--: | :--: | :--: | :--:
-[Kalkülüs 2 (Calculus 2)](https://www.youtube.com/watch?v=z7UBx7_QIVU&list=PLcNWqzWzYG2tsA_idtazrVigh_hG9Gjg3) | 111 video | 10 video/hafta | none | [chat](https://discord.gg/PUu2EeGS)
+[Kalkülüs 2 (Calculus 2)](https://www.youtube.com/watch?v=z7UBx7_QIVU&list=PLcNWqzWzYG2tsA_idtazrVigh_hG9Gjg3) | 111 video | 10 video/hafta | none | [chat](https://discord.gg/7rX9TGQh)
 
 
 #### Olasılık ve İstatistik (Probability and Statistics)
@@ -106,7 +106,7 @@ Bilgisayar Bilimleri, matematik disiplininden köken alarak gelişmiş bir disip
 
 Ders | Süre | Efor | Önkoşul | Tartışma
 :-- | :--: | :--: | :--: | :--:
-[Olasılık ve İstatistik (Probability and Statistics)](https://www.youtube.com/watch?v=gIwbGNK02Po&list=PLcNWqzWzYG2ufnZbJYffUkgYkhh3kS44L) | 117 video | 10 video/hafta | none | [chat](https://discord.gg/PUu2EeGS)
+[Olasılık ve İstatistik (Probability and Statistics)](https://www.youtube.com/watch?v=gIwbGNK02Po&list=PLcNWqzWzYG2ufnZbJYffUkgYkhh3kS44L) | 117 video | 10 video/hafta | none | [chat](https://discord.gg/7rX9TGQh)
 
 #### Python İle Programlamaya Giriş (Introduction to Programming With Python)
 
@@ -117,7 +117,7 @@ Ders | Süre | Efor | Önkoşul | Tartışma
 Ders | Süre | Efor | Önkoşul | Tartışma
 :-- | :--: | :--: | :--: | :--:
 [Python İle Programlamaya Giriş (Introduction to Programming With Python)](https://www.youtube.com/watch?v=EzHgbO1Cee4&list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O) | 62 video | 6 video/hafta | none | [chat](https://discord.gg/syA242Z)
-[Alternatif: Sıfırdan İleri Seviyeye Python(sertifikalı)](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877) | 43 saat | 4 saat/hafta | none | [chat](https://discord.gg/PUu2EeGS)
+[Alternatif: Sıfırdan İleri Seviyeye Python(sertifikalı)](https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877) | 43 saat | 4 saat/hafta | none | [chat](https://discord.gg/7rX9TGQh)
 
 #### Bilgisayar Bilimlerine Giriş 2 (Introduction to Computer Science)
 
@@ -126,7 +126,7 @@ Bilgisayar Bilimlerine Giriş dersi, ilerde göreceğiniz yoğun matematik ve ya
 
 Ders | Süre | Efor | Önkoşul | Tartışma
 :-- | :--: | :--: | :--: | :--:
-[Bilgisayar Bilimlerine Giriş(Prof. Dr. Kemal Bıçakçı)](https://www.youtube.com/watch?v=xtN_nKSHfQc&list=PLmPsb7nQhv7N2QTb7fggPSmWmdOi5dGQZ)   | 10 Video | 1 video/hafta | Lineer Cebir | [chat](https://discord.gg/jvchSm9)
+[Bilgisayar Bilimlerine Giriş(Prof. Dr. Kemal Bıçakçı)](https://www.youtube.com/watch?v=xtN_nKSHfQc&list=PLmPsb7nQhv7N2QTb7fggPSmWmdOi5dGQZ)   | 10 Video | 1 video/hafta | Lineer Cebir | [chat](https://discord.gg/7rX9TGQh)
 
 
 
@@ -142,7 +142,7 @@ Bilgisayar Bilimleri, matematik disiplininden köken alarak gelişmiş bir disip
 Ders | Süre | Efor | Önkoşul | Tartışma
 :-- | :--: | :--: | :--: | :--:
 [Çizge Kuramı (Graph Theory)](https://www.youtube.com/watch?v=PYAxAUUKZ84&list=PLcNWqzWzYG2vmvMLwSpza7IyV0oqoGLjg) | 48 video | 5 video/hafta | none | [chat](https://discord.gg/PUu2EeGS)
-[Ek Kaynak: Çizge Kuramı (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=paMcKZlcv78) | 1 video | - | none | [chat](https://discord.gg/PUu2EeGS)
+[Ek Kaynak: Çizge Kuramı (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=paMcKZlcv78) | 1 video | - | none | [chat](https://discord.gg/7rX9TGQh)
 
 
 #### Algoritmalar ve Veri Yapıları (Algorithms and Data Structures)
@@ -153,9 +153,9 @@ Ders | Süre | Efor | Önkoşul | Tartışma
 
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
-[Algoritmalar ve Veri Yapıları (Algorithms and Data Structures)](https://www.youtube.com/watch?v=r3uOBb3BM-0&list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT) | 26 video | 3 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
-[Ek Kaynak: Python İle Veri Yapıları (Algorithms and Data Structures With Python)](https://www.youtube.com/watch?v=V7yZ69pgJKU&list=PLh9ECzBB8tJOoFYmIIiwFjgXDCD9uiD_i) |  |  |  [chat](https://discord.gg/PUu2EeGS)
-[Ek Kaynak:Veri Yapıları (Algoritma Uzmanı)](https://www.youtube.com/watch?v=lTFmKiyo0nU&list=PLUUSh8du1azZEsdngPxMQGLnatId0V4h9) |  |  |  [chat](https://discord.gg/PUu2EeGS)
+[Algoritmalar ve Veri Yapıları (Algorithms and Data Structures)](https://www.youtube.com/watch?v=r3uOBb3BM-0&list=PLh9ECzBB8tJN9bckI6FbWB03HkmogKrFT) | 26 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak: Python İle Veri Yapıları (Algorithms and Data Structures With Python)](https://www.youtube.com/watch?v=V7yZ69pgJKU&list=PLh9ECzBB8tJOoFYmIIiwFjgXDCD9uiD_i) |  |  |  [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak:Veri Yapıları (Algoritma Uzmanı)](https://www.youtube.com/watch?v=lTFmKiyo0nU&list=PLUUSh8du1azZEsdngPxMQGLnatId0V4h9) |  |  |  [chat](https://discord.gg/7rX9TGQh)
 
 #### Sayısal Çözümleme (Numerical Analysis)
 
@@ -165,7 +165,7 @@ Bilgisayar Bilimleri, matematik disiplininden köken alarak gelişmiş bir disip
 
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
-[Sayısal Çözümleme (Numerical Analys)](https://www.youtube.com/watch?v=t69PeA210U8&list=PLcNWqzWzYG2s5lVEJJK-TPivoT5VS_WTK) | 99 video | 10 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
+[Sayısal Çözümleme (Numerical Analys)](https://www.youtube.com/watch?v=t69PeA210U8&list=PLcNWqzWzYG2s5lVEJJK-TPivoT5VS_WTK) | 99 video | 10 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 
 #### Nesneye Yönelik Analiz ve Tasarım (Object-Oriented Analysis and Design (OOAD) )
 
@@ -174,7 +174,7 @@ Bilgisayar Bilimlerinin bilhassa Yazılım Mühendisliği ve Gereksinim Mühendi
 
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
-[Nesneye Yönelik Analiz ve Tasarım (Object-Oriented Analysis and Design (OOAD)](https://www.youtube.com/watch?v=pUGHbEGQj0g&list=PLh9ECzBB8tJOmOydGaV7xr9h13ooEjBkV) | 31 video | 3 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
+[Nesneye Yönelik Analiz ve Tasarım (Object-Oriented Analysis and Design (OOAD)](https://www.youtube.com/watch?v=pUGHbEGQj0g&list=PLh9ECzBB8tJOmOydGaV7xr9h13ooEjBkV) | 31 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 
 
 #### Sayısal Tasarım (Numerical Design)
@@ -184,8 +184,8 @@ Bilgisayar Bilimleri eğitimi alırken bilgisayar donanımına Sayısal Tasarım
 
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
-[Sayısal Tasarım (Numerical Design)](https://www.youtube.com/watch?v=q3cjsh3Ur2g&list=PLdcoZed79ZuckfFQIT_t8PQuSBHFK_H-s) | 106 video | 10 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
-[Alternatif Kaynak: Sayısal Tasarım - Morris Mano Kitabı]() | 106 video | 10 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
+[Sayısal Tasarım (Numerical Design)](https://www.youtube.com/watch?v=q3cjsh3Ur2g&list=PLdcoZed79ZuckfFQIT_t8PQuSBHFK_H-s) | 106 video | 10 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Alternatif Kaynak: Sayısal Tasarım - Morris Mano Kitabı]() | 106 video | 10 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 
 
 ## 4. dönem 
@@ -203,9 +203,9 @@ Veritabanı yönetimi dersiyle veritabanı mühendisliğinin ilgilendiği konula
 
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
-[Veritabanı Yönetimi (Database Managment)](https://www.youtube.com/watch?v=pHKZw5EyTi4&list=PLh9ECzBB8tJOS7WQKdeUaAa5fmPLYAouD) | 20 video | 2 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
-[Ek Kaynak: Veritabanı Yönetimi (Erdinç Uzun)](https://www.youtube.com/watch?v=1xhO7dlSlwE&list=PLq4n-UisAJbIYbb7B-eE3deU_W1p6bPB4&index=1) | 1 video | - | [chat](https://discord.gg/PUu2EeGS)
-[Ek Kaynak: Uygulamalarla SQL Öğreniyorum(Sertifikalı)](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-oegreniyorum-8249) |  |   | [chat](https://discord.gg/PUu2EeGS)
+[Veritabanı Yönetimi (Database Managment)](https://www.youtube.com/watch?v=pHKZw5EyTi4&list=PLh9ECzBB8tJOS7WQKdeUaAa5fmPLYAouD) | 20 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak: Veritabanı Yönetimi (Erdinç Uzun)](https://www.youtube.com/watch?v=1xhO7dlSlwE&list=PLq4n-UisAJbIYbb7B-eE3deU_W1p6bPB4&index=1) | 1 video | - | [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak: Uygulamalarla SQL Öğreniyorum(Sertifikalı)](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-oegreniyorum-8249) |  |   | [chat](https://discord.gg/7rX9TGQh)
 
 #### İşletim Sistemleri (Operating Systems)
 
@@ -214,7 +214,7 @@ Bilgisayar Bilimlerinin en önemli derslerinden birisi olan İşletim Sistemleri
 
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
-[İşletim Sistemleri (Operating Systems)](https://www.youtube.com/watch?v=r2q_XRKrqHQ&list=PLh9ECzBB8tJO9eiwfQbcA2ThMbUSkbOWf) | 33 video | 3 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
+[İşletim Sistemleri (Operating Systems)](https://www.youtube.com/watch?v=r2q_XRKrqHQ&list=PLh9ECzBB8tJO9eiwfQbcA2ThMbUSkbOWf) | 33 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 
 
 #### Nesneye Yönelik Programlama (Object-Oriented Programming)
@@ -225,10 +225,10 @@ Programcılık hayatınızda yazılım mühendisliğinin temelini oluşturan OOP
 
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
-[Python ile Nesneye Yönelik Programlama (Object-Oriented Programming)](https://python-istihza.yazbel.com/nesne_tabanli_programlama1.html) | 30 video | 3 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
-[Java ile Nesneye Yönelik Programlama (Object-Oriented Programming)](https://www.youtube.com/watch?v=H_SKv07-648&list=PLh9ECzBB8tJPFTpuHKhYayis0H9pS6_rI) | 36 video | 4 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
-[C# ile Nesneye Yönelik Programlama (Object-Oriented Programming)](https://www.youtube.com/watch?v=TC-QxmF_sFk&list=PLIM5iw4GHbNWdLUPpLr-BcAJJ0-7a1i2s) | 38 video | 4 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
-[C++ ile Nesneye Yönelik Programlama (Object-Oriented Programming)](https://www.youtube.com/watch?v=5b-UJWfr73c&list=PLfs1gAT4S8yInGkovwucGKCjcxP-Odf7Q) | 49 video | 5 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
+[Python ile Nesneye Yönelik Programlama (Object-Oriented Programming)](https://python-istihza.yazbel.com/nesne_tabanli_programlama1.html) | 30 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Java ile Nesneye Yönelik Programlama (Object-Oriented Programming)](https://www.youtube.com/watch?v=H_SKv07-648&list=PLh9ECzBB8tJPFTpuHKhYayis0H9pS6_rI) | 36 video | 4 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[C# ile Nesneye Yönelik Programlama (Object-Oriented Programming)](https://www.youtube.com/watch?v=TC-QxmF_sFk&list=PLIM5iw4GHbNWdLUPpLr-BcAJJ0-7a1i2s) | 38 video | 4 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[C++ ile Nesneye Yönelik Programlama (Object-Oriented Programming)](https://www.youtube.com/watch?v=5b-UJWfr73c&list=PLfs1gAT4S8yInGkovwucGKCjcxP-Odf7Q) | 49 video | 5 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 
 #### Çok Değişkenli Veri Analizi (multivariate statistical analysis)
 
@@ -237,7 +237,7 @@ Bu dersin amacı çok değişkenli veri analizi kavramlarını tanıtmak ve kull
 
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
-[Çok Değişkenli Veri Analizi (multivariate statistical analysis)]() |  | |  [chat](https://discord.gg/PUu2EeGS)
+[Çok Değişkenli Veri Analizi (multivariate statistical analysis)]() |  | |  [chat](https://discord.gg/7rX9TGQh)
 
 
 #### Matematiksel Programlama - Yöneylem Araştırması (Operations Research)
@@ -246,8 +246,8 @@ Yöneylem araştırması, belirli kısıtların olduğu bir durumda, belirli bir
 
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
-[Matematiksel Programlama - Yöneylem Araştırması (Operations Research)](https://www.youtube.com/watch?v=ahTEzQm-220&list=PLw1-Fksmff1uptTl-uiZvBZkZOa4wrSBk) | 32 video | 3 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
-[Alternatif Kaynak: Matematiksel Programlama - Yöneylem Araştırması (Operations Research)](https://www.youtube.com/watch?v=ovVY0_92OS4&list=PLcNWqzWzYG2tMf8yy0_m1q4VLkNiHqurz) | 35 video | 3 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
+[Matematiksel Programlama - Yöneylem Araştırması (Operations Research)](https://www.youtube.com/watch?v=ahTEzQm-220&list=PLw1-Fksmff1uptTl-uiZvBZkZOa4wrSBk) | 32 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Alternatif Kaynak: Matematiksel Programlama - Yöneylem Araştırması (Operations Research)](https://www.youtube.com/watch?v=ovVY0_92OS4&list=PLcNWqzWzYG2tMf8yy0_m1q4VLkNiHqurz) | 35 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 
 
 
@@ -256,11 +256,12 @@ Ara dönemde MIT Computer Science bölümünde "The Missing Semester of Your CS 
 
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
-[Bilgisayar Bilimleri Eğitiminizin Eksik Dönemi (The Missing Semester of Your CS Education)](https://missing-semester-tr.github.io/) | 2 hafta | 6 saat/hafta |  [chat](https://discord.gg/PUu2EeGS)
-[Orjinal İngilizce Versiyon](https://missing.csail.mit.edu/) | 2 hafta | 6 saat/hafta |  [chat](https://discord.gg/PUu2EeGS)
+[Bilgisayar Bilimleri Eğitiminizin Eksik Dönemi (The Missing Semester of Your CS Education)](https://missing-semester-tr.github.io/) | 2 hafta | 6 saat/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Orjinal İngilizce Versiyon](https://missing.csail.mit.edu/) | 2 hafta | 6 saat/hafta |  [chat](https://discord.gg/7rX9TGQh)
 
 
 ## 5. dönem 
+Bu dönem 2 adet seçmeli dersi seçmeli ders listesinden seçmeniz gerekiyor.
 
 
 #### Bulanık Mantık ve Bulanık Kümeler (Fuzzy Logic and Fuzzy Sets)
@@ -270,9 +271,9 @@ Bulanık mantık bir yapay zekâ uygulaması oluşturma prensibidir.
 
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
-[Bulanık Mantık ve Bulanık Kümeler (Fuzzy Logic and Fuzzy Sets)](https://www.youtube.com/watch?v=YZ9cEUysr5o&list=PLDUOF2Be-kzk8h239p-5knu-D1uR5h33_) | 21 video | 2 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
-[Ek Kaynak: Bulanık Mantık ve Bulanık Kümeler (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=SQowmSHCjuU&t=339s) |  | - | [chat](https://discord.gg/PUu2EeGS)
-[Ek Kaynak: Fuzzy Logic(İngilizce)](https://www.youtube.com/watch?v=hxanquMn3eU&list=PLUVnh0w_cCjIzH0i8B6yQcXs567mST9cQ) |  |   | [chat](https://discord.gg/PUu2EeGS)
+[Bulanık Mantık ve Bulanık Kümeler (Fuzzy Logic and Fuzzy Sets)](https://www.youtube.com/watch?v=YZ9cEUysr5o&list=PLDUOF2Be-kzk8h239p-5knu-D1uR5h33_) | 21 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak: Bulanık Mantık ve Bulanık Kümeler (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=SQowmSHCjuU&t=339s) |  | - | [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak: Fuzzy Logic(İngilizce)](https://www.youtube.com/watch?v=hxanquMn3eU&list=PLUVnh0w_cCjIzH0i8B6yQcXs567mST9cQ) |  |   | [chat](https://discord.gg/7rX9TGQh)
 
 #### Veri Madenciliğine Giriş (Introduction to Data Mining)
 
@@ -280,18 +281,42 @@ Veri madenciliği, büyük ölçekli veriler arasından faydalı bilgiye ulaşma
 
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
-[Veri Madenciliğine Giriş (Introduction to Data Mining)](https://www.youtube.com/watch?v=niXG2zCXj00&list=PLNVCj-z_HS4YpUuNJ-XbPrfeThCF-ROeb) | 32 video | 3 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
-[Ek Kaynak: Veri Madenciliğine Giriş (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=iButBaRPpBM&list=PLh9ECzBB8tJNScCBWJFoMdpMkCdpnwUEl) |  | - | [chat](https://discord.gg/PUu2EeGS)
+[Veri Madenciliğine Giriş (Introduction to Data Mining)](https://www.youtube.com/watch?v=niXG2zCXj00&list=PLNVCj-z_HS4YpUuNJ-XbPrfeThCF-ROeb) | 32 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak: Veri Madenciliğine Giriş (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=iButBaRPpBM&list=PLh9ECzBB8tJNScCBWJFoMdpMkCdpnwUEl) |  | - | [chat](https://discord.gg/7rX9TGQh)
 
 #### Algoritmaların Tasarımı ve Analizi (Design and Analysis of Algorithms)
 
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
-[Algoritmaların Tasarımı ve Analizi (Design and Analysis of Algorithms)](https://www.youtube.com/watch?v=3bhBo9YCTpo&list=PLh9ECzBB8tJPTWIUbZjHZMMGuZcpHUv5h) | 21 video | 2 video/hafta |  [chat](https://discord.gg/PUu2EeGS)
-[Ek Kaynak: Algoritmaların Tasarımı ve Analizi (Design and Analysis of Algorithms)](https://www.youtube.com/watch?v=_eFseY9EwjM&list=PLfs1gAT4S8yIGKkJw4gbz2ZdmuEBxjGwk) |  | - | [chat](https://discord.gg/PUu2EeGS)
+[Algoritmaların Tasarımı ve Analizi (Design and Analysis of Algorithms)](https://www.youtube.com/watch?v=3bhBo9YCTpo&list=PLh9ECzBB8tJPTWIUbZjHZMMGuZcpHUv5h) | 21 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak: Algoritmaların Tasarımı ve Analizi (Design and Analysis of Algorithms)](https://www.youtube.com/watch?v=_eFseY9EwjM&list=PLfs1gAT4S8yIGKkJw4gbz2ZdmuEBxjGwk) |  | - | [chat](https://discord.gg/7rX9TGQh)
 
 
+## 6. dönem 
+Bu dönem 2 adet seçmeli dersi seçmeli ders listesinden seçmeniz gerekiyor.
 
 
+#### Kombinatoryal Optimizasyon (Combinatorial Optimization)
+Çözüm kümesi discrete olan optimizasyon problemleridir. Bilgisayar Bilimleri'nin yapay zeka, yazılım mühendisliği ve uygulamalı matematik alanları ile yakından ilgilidir.
+
+Ders | Süre | Efor |  Tartışma
+:-- | :--: | :--: | :--:
+[Kombinatoryal Optimizasyon (Combinatorial Optimization)](https://www.youtube.com/watch?v=G27vjNQUoh4&list=PLXsmhnDvpjORcTRFMVF3aUgyYlHsxfhNL) | 71 video | 7 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+
+#### Bilgisayar Organizasyonu (Computer Organization)
+Bilgisayar Bilimleri'nde bilgisayar organizasyonu, (veya bazen mikromimari de denir) verilen bir komut kümesi mimarisinin bir işlemci üzerinde gerçeklenmesidir.
+
+Ders | Süre | Efor |  Tartışma
+:-- | :--: | :--: | :--:
+[Kombinatoryal Optimizasyon (Combinatorial Optimization)](https://www.youtube.com/watch?v=XeAhz1bp1BY&list=PLvNq8wrSYGAU6CF4UleG6HbXa9paQDsLK) | 71 video | 7 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak: Morris Mano Bilgisayar Sistemleri Mimarisi Kitabı] | 500 sayfa | - |  [chat](https://discord.gg/7rX9TGQh)
+
+#### Bilgisayar Ağları (Computer Networks)
+Bilgisayar Ağları dersini alan öğrenciler bilgisayar ağlarının temel prensipleri, iletişim protokol yapısı ve işlevleri, protokol katmanları ve aralarındaki ilişkileri ve kısmi ağ güvenliği hakkında bilgi sahibi olacaktır.
+
+Ders | Süre | Efor |  Tartışma
+:-- | :--: | :--: | :--:
+[Bilgisayar Ağları (Computer Networks)](https://www.youtube.com/watch?v=b573S89IhhA&list=PL1XUdfGZZ4rQ0UPDx__7W4LmeLab227vb) | 46 video | 5 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak: Bilgisayar Ağları Ve İnternet - Douglas E. Comer Kitabı] | 662 sayfa | - |  [chat](https://discord.gg/7rX9TGQh)
 
 devam edecek..
