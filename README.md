@@ -1,6 +1,6 @@
 # Açık Kaynak Bilgisayar Bilimleri Eğitimi
 
-Türkiye'de üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri vb. bölümlerinde verilen eğitimin bilgisayar bilimleri(computer science) eğitimi olması ve bu doğrultuda CS eğitiminin günümüzde üniversiteler dışı, internetin olduğu her yerden -başta ingilizce olarak- alınabiliyor hale gelmesi, Türkçe kaynak tarafında bir Bilgisayar Bilimleri müfredatı hazırlama gereksinimi oluşturmuştur.
+Türkiye'de üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri vb. bölümlerinde verilen eğitimin çoğunlukla bilgisayar bilimleri(computer science) eğitimi olması veya çok yakın olması ve bu doğrultuda CS eğitiminin günümüzde üniversiteler dışı, internetin olduğu her yerden -başta ingilizce olarak- alınabiliyor hale gelmesi, Türkçe kaynak tarafında bir Bilgisayar Bilimleri müfredatı hazırlama gereksinimi oluşturmuştur.
 
 İster üniversitelerin çeşitli bölümlerinde bilgisayar bilimleri eğitimi alıyor olun, ister üniversite dışından bilgisayar bilimlerine ilgi duyuyor olun bu repoda dönem dönem sunulan dersleri çalışarak Computer Science eğtimi alabilirsiniz.
 
