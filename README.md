@@ -218,7 +218,7 @@ Bilgisayar Bilimleri eğitimi alırken bilgisayar donanımına Sayısal Tasarım
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
 [Sayısal Tasarım (Numerical Design)](https://www.youtube.com/watch?v=q3cjsh3Ur2g&list=PLdcoZed79ZuckfFQIT_t8PQuSBHFK_H-s) | 106 video | 10 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
-[Alternatif Kaynak: Sayısal Tasarım - Morris Mano Kitabı]() | 106 video | 10 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Alternatif Kaynak(Kitap): Sayısal Tasarım - Morris Mano] | 500 sayfa | - |  [chat](https://discord.gg/7rX9TGQh)
 
 
 ## 4. dönem 
