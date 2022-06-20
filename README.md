@@ -230,14 +230,6 @@ Ders | Süre | Efor | Tartışma
 [C# ile Nesneye Yönelik Programlama (Object-Oriented Programming)](https://www.youtube.com/watch?v=TC-QxmF_sFk&list=PLIM5iw4GHbNWdLUPpLr-BcAJJ0-7a1i2s) | 38 video | 4 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [C++ ile Nesneye Yönelik Programlama (Object-Oriented Programming)](https://www.youtube.com/watch?v=5b-UJWfr73c&list=PLfs1gAT4S8yInGkovwucGKCjcxP-Odf7Q) | 49 video | 5 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 
-#### Çok Değişkenli Veri Analizi (multivariate statistical analysis)
-
-Bu dersin amacı çok değişkenli veri analizi kavramlarını tanıtmak ve kullanımlarını pratik anlamda tanımlamaktır. Temel vurgu, her yöntemin amacını açıklamaktır, böylece öğrenciler araştırma sorularına uygun yöntemleri seçebilirler. Dersin genel amacı, öğrencilere veri analizi ve araştırma bulguları hakkında eleştirel düşünmeyi öğretmektir.
-
-
-Ders | Süre | Efor | Tartışma
-:-- | :--: | :--: | :--:
-[Çok Değişkenli Veri Analizi (multivariate statistical analysis)]() |  | |  [chat](https://discord.gg/7rX9TGQh)
 
 
 #### Matematiksel Programlama - Yöneylem Araştırması (Operations Research)
@@ -337,6 +329,7 @@ Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
 [Siber Güvenliğe Giriş (Prof. Dr. Kemal Bıçakçı)](https://www.youtube.com/watch?v=dVdzS9O17ww&list=PLmPsb7nQhv7MHAfbyYD7-jKXAL4KRqvU2) | 14 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Kriptoloji Bilimine Giriş (Dr. Fatih Özkaynak)](https://www.youtube.com/watch?v=0RECW49LmHM&list=PLR_3k5Bkz0SAgl6aeXR-4_3Gtv9rywoBa) | 42 video | 5 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Çok Değişkenli Veri Analizi (Doç. Dr. Oktay Bektaş)](https://www.youtube.com/watch?v=2aUcgFfwFis&list=PLdegw8CWM59kYWeELSQFH-UBk8e0MC_Ni) | 32 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Yazılım Mühendisliği (Dr. Fatih Özkaynak)](https://www.youtube.com/watch?v=-2tzE5NWDPI&list=PLR_3k5Bkz0SBGQHDvzoYk0FU3UUbTQSWz) | 12 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Linux Giriş (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY) | 16 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Mobil Programlama (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=S-A59CoIrEQ&list=PLh9ECzBB8tJNBk3dm8XGtYv_xOk9CTdst) | 25 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
