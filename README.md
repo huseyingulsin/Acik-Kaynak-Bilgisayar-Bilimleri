@@ -281,8 +281,11 @@ Veri madenciliği, büyük ölçekli veriler arasından faydalı bilgiye ulaşma
 
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
-[Veri Madenciliğine Giriş (Introduction to Data Mining)](https://www.youtube.com/watch?v=niXG2zCXj00&list=PLNVCj-z_HS4YpUuNJ-XbPrfeThCF-ROeb) | 32 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
-[Ek Kaynak: Veri Madenciliğine Giriş (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=iButBaRPpBM&list=PLh9ECzBB8tJNScCBWJFoMdpMkCdpnwUEl) |  | - | [chat](https://discord.gg/7rX9TGQh)
+[Veri Madenciliğine Giriş (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=k5XNy2XmvOE&list=PLh9ECzBB8tJP8THd6b8DJmw76G6cyPo3o) | 69 video | 7 video/hafta | [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak:Teorik Veri Madenciliği  (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=iButBaRPpBM&list=PLh9ECzBB8tJNScCBWJFoMdpMkCdpnwUEl) | 12 video | 2 video/hafta | [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak:Veri Madenciliği ve İstatistiksel Yöntemler  (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=iButBaRPpBM&list=PLh9ECzBB8tJNScCBWJFoMdpMkCdpnwUEl) | 19 video | 2 video/hafta | [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak: Veri Madenciliğine Giriş (Introduction to Data Mining)](https://www.youtube.com/watch?v=niXG2zCXj00&list=PLNVCj-z_HS4YpUuNJ-XbPrfeThCF-ROeb) | 32 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+
 
 #### Algoritmaların Tasarımı ve Analizi (Design and Analysis of Algorithms)
 
@@ -293,7 +296,7 @@ Ders | Süre | Efor |  Tartışma
 
 
 ## 6. dönem 
-Bu dönem 2 adet seçmeli dersi seçmeli ders listesinden seçmeniz gerekiyor.
+Bu dönem 4 adet seçmeli dersi seçmeli ders listesinden seçmeniz gerekiyor.
 
 
 #### Kombinatoryal Optimizasyon (Combinatorial Optimization)
@@ -318,5 +321,39 @@ Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
 [Bilgisayar Ağları (Computer Networks)](https://www.youtube.com/watch?v=b573S89IhhA&list=PL1XUdfGZZ4rQ0UPDx__7W4LmeLab227vb) | 46 video | 5 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Ek Kaynak: Bilgisayar Ağları Ve İnternet - Douglas E. Comer Kitabı] | 662 sayfa | - |  [chat](https://discord.gg/7rX9TGQh)
+
+
+## 7. dönem 
+Bu dönem 4 adet seçmeli dersi seçmeli ders listesinden seçmeniz gerekiyor.
+
+## 8. dönem 
+Bu dönem 4 adet seçmeli dersi seçmeli ders listesinden seçmeniz gerekiyor.
+
+## SEÇMELİ DERSLER
+İlgili dönemlere dair ders seçimlerinizi aşağıdaki listeden yapabilirsiniz.
+
+
+Ders | Süre | Efor |  Tartışma
+:-- | :--: | :--: | :--:
+[Siber Güvenliğe Giriş (Prof. Dr. Kemal Bıçakçı)](https://www.youtube.com/watch?v=dVdzS9O17ww&list=PLmPsb7nQhv7MHAfbyYD7-jKXAL4KRqvU2) | 14 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Kriptoloji Bilimine Giriş (Dr. Fatih Özkaynak)](https://www.youtube.com/watch?v=0RECW49LmHM&list=PLR_3k5Bkz0SAgl6aeXR-4_3Gtv9rywoBa) | 42 video | 5 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Yazılım Mühendisliği (Dr. Fatih Özkaynak)](https://www.youtube.com/watch?v=-2tzE5NWDPI&list=PLR_3k5Bkz0SBGQHDvzoYk0FU3UUbTQSWz) | 12 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Linux Giriş (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=_Kc9ImFpqro&list=PLh9ECzBB8tJOnxXrUTOqXfurKOZkN4mEY) | 16 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Mobil Programlama (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=S-A59CoIrEQ&list=PLh9ECzBB8tJNBk3dm8XGtYv_xOk9CTdst) | 25 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Web Programlama (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=BNSwq1PTE8M&list=PLh9ECzBB8tJN9WuXjJEZvPf4q9LZhA1bO) | 18 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Yapay Zeka (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=1xOe1vc-dJw&list=PLh9ECzBB8tJOtaD6DFxqRdP7QHIaBFcbW) | 48 video | 5 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[İnternet Nasıl Çalışır? (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=jVsUOiBzu7o&list=PLh9ECzBB8tJMKXMd8ovXR8TmQeaVtz5-l) | 15 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Rapid Miner - Veri Madenciliği (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=mFO2fGYzMgQ&list=PLh9ECzBB8tJN-rTkIyGIDJwTRBNSIZwTQ) | 18 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Uygulamalı Kriptografi (Prof. Dr. Çetin Kaya Koç)](https://www.youtube.com/watch?v=r7no3eREtgE&list=PLWtwsoCi5xAE6_ixlYHqw0Ej-q-_S64oV) | 15 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Kriptografi Mühendisliği (Prof. Dr. Çetin Kaya Koç)](https://www.youtube.com/watch?v=r4ztwZXkG94&list=PLWtwsoCi5xAELiiXTy7lbDxD_q0byP_OY&index=10) | 10 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Sayısal Sinyal İşleme)](https://www.youtube.com/watch?v=0t_-PGYOBtk&list=PLLqNamRiKS5f9xV24u3bttAetQFE0LZF2) | 54 video | 6 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Bilgisayar Grafikleri (Dr. Cengiz Güngör)](https://www.youtube.com/watch?v=Qo4A-MQTarE&list=PLUR6lZV92DNRCv1gd_y1L3PZabM53ujaH) | 27 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Paralel Hesaplama  (Dr. Cengiz Güngör)](https://www.youtube.com/watch?v=ok7Dp4CUKpM&list=PLUR6lZV92DNTctMQc7UFVj4usrFVxp1l5) | 20 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Dağıtık Algoritmalar (Ömer Faruk ÇOLAKOĞLU)](https://www.youtube.com/watch?v=NvPG7S-rd6g&list=PLsYJNXVuNCUZYRLY2gYBICyyNZJT-7t1b) | 8 video | 1 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Hesaplama Kuramına Giriş - Biçimsel Diller ve Otomatlar (Prof.Dr. NEJAT YUMUŞAK)](https://www.youtube.com/watch?v=JNmDsQqF8Hk&list=PLDUOF2Be-kzmLZ2uHD09cG4VKV0rihr-a) | 9 video | 1 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Nesnelerin İnternetinin Temelleri  (BTKAkademi - Sertifikalı)](https://www.btkakademi.gov.tr/portal/course/nesnelerin-interneti-iot-ve-guevenligi-10625) | 23 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Gömülü Sistem Programlama  (Süleyman ŞEKER)](https://www.youtube.com/watch?v=Qwyf1HJ_zgg&list=PLeKWVPCoT9e3Txa-PKwO6fC37JfUU9dbo) | 30 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Bash Script Temel Eğitimi  (Süleyman ŞEKER)](https://www.youtube.com/watch?v=PN211ARk84M&list=PLeKWVPCoT9e0jHStZlH-z8Gsoo1SBZJlG) | 35 video | 4 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+
 
 devam edecek..
