@@ -288,7 +288,7 @@ Ders | Süre | Efor |  Tartışma
 
 
 ## 6. dönem 
-Bu dönem 4 adet seçmeli dersi seçmeli ders listesinden seçmeniz gerekiyor.
+Bu dönem 2 adet seçmeli dersi seçmeli ders listesinden seçmeniz gerekiyor.
 
 
 #### Kombinatoryal Optimizasyon (Combinatorial Optimization)
