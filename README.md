@@ -371,7 +371,7 @@ Ders | Süre | Efor |  Tartışma
 [Rapid Miner - Veri Madenciliği (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=mFO2fGYzMgQ&list=PLh9ECzBB8tJN-rTkIyGIDJwTRBNSIZwTQ) | 18 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Uygulamalı Kriptografi (Prof. Dr. Çetin Kaya Koç)](https://www.youtube.com/watch?v=r7no3eREtgE&list=PLWtwsoCi5xAE6_ixlYHqw0Ej-q-_S64oV) | 15 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Kriptografi Mühendisliği (Prof. Dr. Çetin Kaya Koç)](https://www.youtube.com/watch?v=r4ztwZXkG94&list=PLWtwsoCi5xAELiiXTy7lbDxD_q0byP_OY&index=10) | 10 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
-[Sayısal Sinyal İşleme)](https://www.youtube.com/watch?v=0t_-PGYOBtk&list=PLLqNamRiKS5f9xV24u3bttAetQFE0LZF2) | 54 video | 6 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Sayısal Sinyal İşleme(Elektronik Okulu)](https://www.youtube.com/watch?v=0t_-PGYOBtk&list=PLLqNamRiKS5f9xV24u3bttAetQFE0LZF2) | 54 video | 6 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Bilgisayar Grafikleri (Dr. Cengiz Güngör)](https://www.youtube.com/watch?v=Qo4A-MQTarE&list=PLUR6lZV92DNRCv1gd_y1L3PZabM53ujaH) | 27 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Paralel Hesaplama  (Dr. Cengiz Güngör)](https://www.youtube.com/watch?v=ok7Dp4CUKpM&list=PLUR6lZV92DNTctMQc7UFVj4usrFVxp1l5) | 20 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Dağıtık Algoritmalar (Ömer Faruk ÇOLAKOĞLU)](https://www.youtube.com/watch?v=NvPG7S-rd6g&list=PLsYJNXVuNCUZYRLY2gYBICyyNZJT-7t1b) | 8 video | 1 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
@@ -379,6 +379,17 @@ Ders | Süre | Efor |  Tartışma
 [Nesnelerin İnternetinin Temelleri  (BTKAkademi - Sertifikalı)](https://www.btkakademi.gov.tr/portal/course/nesnelerin-interneti-iot-ve-guevenligi-10625) | 23 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Gömülü Sistem Programlama  (Süleyman ŞEKER)](https://www.youtube.com/watch?v=Qwyf1HJ_zgg&list=PLeKWVPCoT9e3Txa-PKwO6fC37JfUU9dbo) | 30 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Bash Script Temel Eğitimi  (Süleyman ŞEKER)](https://www.youtube.com/watch?v=PN211ARk84M&list=PLeKWVPCoT9e0jHStZlH-z8Gsoo1SBZJlG) | 35 video | 4 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+
+
+## Sık Sorulan Sorular
+#### Bilgisayar Bilimleri (Computer Science) eğitimi alarak hangi alanlarda çalışabilirim?
+Bir Bilgisayar Bilimcisi olarak yazılım mühendisliği, kriptografi mühendisliği, sistem ve network mühendisliği, veritabanı mühendisliği vb. pek çok mühendislik alanında kariyerinizi devam ettirebilirsiniz. 
+Bilgisayar Bilimlerinin teorik ayağını Hesaplama Kuramı, Algoritmalar ve Veri Yapıları, Bilişim ve Kodlama Kuramı, Programlama Dilleri gibi çalışma alanları oluştururken, uygulamalı tarafında Yapay Zeka, Bilgisayar Mimarisi ve Mühendisliği, Bilgisayar Grafikleri, Bilimsel Hesaplama, Bilgisayar Ağları, Paralel ve Dağıtık Sistemler, Bilgisayar Güvenliği ve Kriptografi ve Yazılım Mühendisliği gibi alanlar bulunmaktadır.
+
+#### Neden Bilgisayar Bilimleri(Computer Science) eğitimi almalıyım?
+Bilgisayar Bilimleri matematik'den köken almasıyla pek çok farklı disiplin ve alanla ilişkili bütün haline gelmiştir. Dolayısıyla Bilgisayar Bilimleri eğitimi almak kariyerinizde sadece programlama yapmakla kalmayıp bilgisayarın, programlamanın ve yazılımın arkasındaki tüm gelişimi ve disiplinleri anlayabilmenizi sağlar. 
+
+
 
 
 devam edecek..
