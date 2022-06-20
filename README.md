@@ -33,7 +33,7 @@ Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilir
 
 *not: müfredat düzeni Türkiye'deki bilgisayar bilimleri eğitimi veren bölümlerin dersleri ve OSSU referans alınarak hazırlanılmıştır.*
 
-## 1. dönem 
+## [1. dönem](#intro-cs)
 *Bu dönem  bilgisayar bilimleri için gerekli temel matematik derslerini ve bilgisayar bilimleri eğitimi için ön hazırlık yapacaksınız.*
 
 #### C İle Programlamaya Giriş(Introduction to Programming)
