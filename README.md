@@ -207,6 +207,7 @@ Bilgisayar Bilimlerinin bilhassa Yazılım Mühendisliği ve Gereksinim Mühendi
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
 [Nesneye Yönelik Analiz ve Tasarım (Object-Oriented Analysis and Design (OOAD)](https://www.youtube.com/watch?v=pUGHbEGQj0g&list=PLh9ECzBB8tJOmOydGaV7xr9h13ooEjBkV) | 31 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Ek Kaynak: Object-Oriented Analysis and Design (OOAD)](https://www.youtube.com/watch?v=IzN9Vuoivrg&list=PL6XklZATqYx9dj72MKG6wLYjljeB2odra&index=1) | 14 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 
 
 #### Sayısal Tasarım (Numerical Design)
