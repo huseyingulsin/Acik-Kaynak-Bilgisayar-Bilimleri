@@ -6,11 +6,12 @@ Türkiye'de üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği
 
 Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilirsiniz: https://github.com/ossu/computer-science
 
+
 # Müfredat
 
 
 - [Müfredat](#mufredat)
-- [1. Dönem](#intro-cs)
+- [1. Dönem](#1.donem)
   - [C ile Programlamaya Giriş (Introduction to Programming)](#introduction-to-programming)
   - [Bilgisayar Bilimlerine Giriş (Introduction to Computer Science)](#introduction-to-computer-science)
   - [Kalkülüs 1 (Calculus 1)](#calculus-1)
@@ -29,11 +30,13 @@ Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilir
 
 
 ---
+Discord: https://discord.gg/7rX9TGQh
+Telegram: https://t.me/computersciencelab - [https://t.me/computersciencelab](https://t.me/csarchive)
 
 
 *not: müfredat düzeni Türkiye'deki bilgisayar bilimleri eğitimi veren bölümlerin dersleri ve OSSU referans alınarak hazırlanılmıştır.*
 
-## [1. dönem](#intro-cs)
+## 1. dönem
 *Bu dönem  bilgisayar bilimleri için gerekli temel matematik derslerini ve bilgisayar bilimleri eğitimi için ön hazırlık yapacaksınız.*
 
 #### C İle Programlamaya Giriş(Introduction to Programming)
