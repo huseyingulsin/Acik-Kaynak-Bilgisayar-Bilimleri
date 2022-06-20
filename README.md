@@ -12,7 +12,7 @@ Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilir
 
 - [Müfredat](#mufredat)
 - [1. Dönem](#1.donem)
-  - [C ile Programlamaya Giriş (Introduction to Programming)](#introduction-to-programming)
+  - [C ile Programlamaya Giriş (Introduction to Programming)](#c-i̇le-programlamaya-girişintroduction-to-programming)
   - [Bilgisayar Bilimlerine Giriş (Introduction to Computer Science)](#introduction-to-computer-science)
   - [Kalkülüs 1 (Calculus 1)](#calculus-1)
   - [Lineer Cebir (Linear Algebra)](#lineer-cebir)
