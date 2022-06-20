@@ -6,6 +6,7 @@ Türkiye'de üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği
 
 Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilirsiniz: https://github.com/ossu/computer-science
 
+*not: müfredat düzeni Türkiye'deki bilgisayar bilimleri eğitimi veren 4 yıllık(8 dönem) lisans bölümlerinin dersleri ve OSSU referans alınarak hazırlanılmıştır.*
 
 # Müfredat
 
@@ -63,7 +64,6 @@ Discord: https://discord.gg/7rX9TGQh
 Telegram: https://t.me/computersciencelab - [https://t.me/computersciencelab](https://t.me/csarchive)
 
 
-*not: müfredat düzeni Türkiye'deki bilgisayar bilimleri eğitimi veren bölümlerin dersleri ve OSSU referans alınarak hazırlanılmıştır.*
 
 ## 1. dönem
 *Bu dönem  bilgisayar bilimleri için gerekli temel matematik derslerini ve bilgisayar bilimleri eğitimi için ön hazırlık yapacaksınız.*
