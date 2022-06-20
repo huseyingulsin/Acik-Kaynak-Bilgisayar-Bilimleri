@@ -11,22 +11,51 @@ Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilir
 
 
 - [Müfredat](#mufredat)
-- [1. Dönem](#1.donem)
+- [1. Dönem](#1-donem)
   - [C ile Programlamaya Giriş (Introduction to Programming)](#c-i̇le-programlamaya-girişintroduction-to-programming)
-  - [Bilgisayar Bilimlerine Giriş (Introduction to Computer Science)](#introduction-to-computer-science)
-  - [Kalkülüs 1 (Calculus 1)](#calculus-1)
-  - [Lineer Cebir (Linear Algebra)](#lineer-cebir)
-- [2. Dönem](#ikinci-donem)
-  - [Kalkülüs 2 (Calculus 2)](#calculus-2)
-  - [Olasılık ve İstatistik (Probability and Statistics)](#Probability-and-statistics)
-  - [Python ile Programlamaya Giriş (Introduction to programming with Python)](#introduction-to-programming-with-Python)
-  - [Bilgisayar Bilimlerine Giriş 2 (Introduction to Computer Science)](#introduction-to-computer-science)
-- [3. Dönem](#ikinci-donem)
-  - [Çizge Kuramı (Graph Theory)](#calculus-2)
-  - [Algoritmalar ve Veri Yapıları (Algorithms and Data Structures)](#Probability-and-statistics)
-  - [Sayısal Çözümleme (Numerical Analysis)](#introduction-to-programming-with-Python)
-  - [Nesneye Yönelik Analiz ve Tasarım (Object-Oriented Analysis and Design (OOAD)](#introduction-to-computer-science)
-  - [Sayısal Tasarım (Numerical Design)](#)
+  - [Bilgisayar Bilimlerine Giriş (Introduction to Computer Science)](#bilgisayar-bilimlerine-girişintroduction-to-computer-science)
+  - [Kalkülüs 1 (Calculus 1)](#kalkülüs-1-calculus-1)
+  - [Lineer Cebir (Linear Algebra)](#lineer-cebir-linear-algebra)
+- [2. Dönem](#2-donem)
+  - [Kalkülüs 2 (Calculus 2)](#kalkülüs-2-calculus-2)
+  - [Olasılık ve İstatistik (Probability and Statistics)](#olasılık-ve-i̇statistik-probability-and-statistics)
+  - [Python ile Programlamaya Giriş (Introduction to programming with Python)](#python-i̇le-programlamaya-giriş-introduction-to-programming-with-python)
+  - [Bilgisayar Bilimlerine Giriş 2 (Introduction to Computer Science)](#bilgisayar-bilimlerine-giriş-2-introduction-to-computer-science)
+- [3. Dönem](#3-donem)
+  - [Çizge Kuramı (Graph Theory)](#çizge-kuramı-graph-theory)
+  - [Algoritmalar ve Veri Yapıları (Algorithms and Data Structures)](#algoritmalar-ve-veri-yapıları-algorithms-and-data-structures)
+  - [Sayısal Çözümleme (Numerical Analysis)](#sayısal-çözümleme-numerical-analysis)
+  - [Nesneye Yönelik Analiz ve Tasarım (Object-Oriented Analysis and Design (OOAD)](#nesneye-yönelik-analiz-ve-tasarım-object-oriented-analysis-and-design-ooad-)
+  - [Sayısal Tasarım (Numerical Design)](#sayısal-tasarım-numerical-design)
+- [4. Dönem](#4-donem)
+  - [Veritabanı Yönetimi (Database Managment)](#veritabanı-yönetimi-database-managment)
+  - [İşletim Sistemleri (Operating Systems)](#i̇şletim-sistemleri-operating-systems)
+  - [Nesneye Yönelik Programlama (Object-Oriented Programming)](#nesneye-yönelik-programlama-object-oriented-programming)
+  - [Matematiksel Programlama - Yöneylem Araştırması (Operations Research)](#matematiksel-programlama---yöneylem-araştırması-operations-research)
+ - [Ara Dönem - Bilgisayar Bilimleri Eğitiminizin Eksik Dönemi](#ara-dönem---bilgisayar-bilimleri-eğitiminizin-eksik-dönemi)
+- [5. Dönem](#5-dönem)
+  - [Bulanık Mantık ve Bulanık Kümeler (Fuzzy Logic and Fuzzy Sets)](#bulanık-mantık-ve-bulanık-kümeler-fuzzy-logic-and-fuzzy-sets)
+  - [Veri Madenciliğine Giriş (Introduction to Data Mining)](#veri-madenciliğine-giriş-introduction-to-data-mining)
+  - [Algoritmaların Tasarımı ve Analizi (Design and Analysis of Algorithms)](#algoritmaların-tasarımı-ve-analizi-design-and-analysis-of-algorithms)
+  - [Seçmeli Ders 1](#seçmeli̇-dersler)
+  - [Seçmeli Ders 2](#seçmeli̇-dersler)
+- [6. Dönem](#6-dönem)
+  - [Kombinatoryal Optimizasyon (Combinatorial Optimization)](#kombinatoryal-optimizasyon-combinatorial-optimization)
+  - [Bilgisayar Organizasyonu (Computer Organization)](#bilgisayar-organizasyonu-computer-organization)
+  - [Bilgisayar Ağları (Computer Networks)](#bilgisayar-ağları-computer-networks)
+  - [Seçmeli Ders 1](#seçmeli̇-dersler)
+  - [Seçmeli Ders 2](#seçmeli̇-dersler)
+ - [7. Dönem](#7-dönem)
+  - [Seçmeli Ders 1](#seçmeli̇-dersler)
+  - [Seçmeli Ders 2](#seçmeli̇-dersler)
+  - [Seçmeli Ders 3](#seçmeli̇-dersler)
+  - [Seçmeli Ders 4](#seçmeli̇-dersler)
+ - [7. Dönem](#8-dönem)
+  - [Seçmeli Ders 1](#seçmeli̇-dersler)
+  - [Seçmeli Ders 2](#seçmeli̇-dersler)
+  - [Seçmeli Ders 3](#seçmeli̇-dersler)
+  - [Seçmeli Ders 4](#seçmeli̇-dersler)
+
 
 
 ---
@@ -73,7 +102,7 @@ Bilgisayar Bilimleri, matematik disiplininden köken alarak gelişmiş bir disip
 
 Ders | Süre | Efor | Önkoşul | Tartışma
 :-- | :--: | :--: | :--: | :--:
-[Kalkülüs 1 (Calculus 1))](https://www.youtube.com/watch?v=jDZAAWzEH4k&list=PLcNWqzWzYG2v5_R_uPyLRzGXSoYgjfd8C) | 112 video | 11 video/hafta | none | [chat](https://discord.gg/7rX9TGQh)
+[Kalkülüs 1 (Calculus 1)](https://www.youtube.com/watch?v=jDZAAWzEH4k&list=PLcNWqzWzYG2v5_R_uPyLRzGXSoYgjfd8C) | 112 video | 11 video/hafta | none | [chat](https://discord.gg/7rX9TGQh)
 
 #### Lineer Cebir (Linear Algebra)
 
@@ -83,7 +112,7 @@ Bilgisayar Bilimleri, matematik disiplininden köken alarak gelişmiş bir disip
 
 Ders | Süre | Efor | Önkoşul | Tartışma
 :-- | :--: | :--: | :--: | :--:
-[Lineer Cebir (Linear Algebra))](https://www.youtube.com/watch?v=DJ7DoGoU9E0&list=PLcNWqzWzYG2vUwIrhpYTwqm0qboR5yQRA) | 146 video | 14 video/hafta | none | [chat](https://discord.gg/7rX9TGQh)
+[Lineer Cebir (Linear Algebra)](https://www.youtube.com/watch?v=DJ7DoGoU9E0&list=PLcNWqzWzYG2vUwIrhpYTwqm0qboR5yQRA) | 146 video | 14 video/hafta | none | [chat](https://discord.gg/7rX9TGQh)
 
 
 
@@ -113,7 +142,7 @@ Ders | Süre | Efor | Önkoşul | Tartışma
 
 #### Python İle Programlamaya Giriş (Introduction to Programming With Python)
 
-1. dönem programlama dünyasına C ile giriş yapmıştık. Bu dönem Python ile giriş yapacağız. Python sade ve kolay bir söz dizimine sahiptir. Ayrıca isterseniiz Olasılık ve istatistik dersinde aldığınız eğitimi Python'a ait Numpy, Pandas, Matplotlib gibi kütüphaneler ile kolaylıkla uygulamalı kullanarak veri bilimi dünyasına da göz kırpabilirsiniz. Diğer yandan Python ile kariyerinizi ilerletmek isterseniz veri bilimi yanı sıra yapay zeka, web geliştirme, siber güvenlik gibi pek çok konuda uzmanlık elde edebilirsiniz.
+Geçtiğimiz 1. dönem programlama dünyasına C ile giriş yapmıştık. Bu dönem Python ile giriş yapacağız. Python sade ve kolay bir söz dizimine sahiptir. Ayrıca isterseniiz Olasılık ve istatistik dersinde aldığınız eğitimi Python'a ait Numpy, Pandas, Matplotlib gibi kütüphaneler ile kolaylıkla uygulamalı kullanarak veri bilimi dünyasına da göz kırpabilirsiniz. Diğer yandan Python ile kariyerinizi ilerletmek isterseniz veri bilimi yanı sıra yapay zeka, web geliştirme, siber güvenlik gibi pek çok konuda uzmanlık elde edebilirsiniz.
 
 
 
