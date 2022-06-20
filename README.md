@@ -361,6 +361,7 @@ Bu dönem 4 adet seçmeli dersi seçmeli ders listesinden seçmeniz gerekiyor.
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
 [Siber Güvenliğe Giriş (Prof. Dr. Kemal Bıçakçı)](https://www.youtube.com/watch?v=dVdzS9O17ww&list=PLmPsb7nQhv7MHAfbyYD7-jKXAL4KRqvU2) | 14 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Programlama Dilleri Prensipleri (Doç. Dr. Erdinç Uzun)](https://www.youtube.com/watch?v=x0CQyCeW7KY&list=PLq4n-UisAJbJdLkxKgVqJZ2Qk1zitUZ9D) | 109 video | 11 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Kriptoloji Bilimine Giriş (Dr. Fatih Özkaynak)](https://www.youtube.com/watch?v=0RECW49LmHM&list=PLR_3k5Bkz0SAgl6aeXR-4_3Gtv9rywoBa) | 42 video | 5 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Çok Değişkenli Veri Analizi (Doç. Dr. Oktay Bektaş)](https://www.youtube.com/watch?v=2aUcgFfwFis&list=PLdegw8CWM59kYWeELSQFH-UBk8e0MC_Ni) | 32 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Yazılım Mühendisliği (Dr. Fatih Özkaynak)](https://www.youtube.com/watch?v=-2tzE5NWDPI&list=PLR_3k5Bkz0SBGQHDvzoYk0FU3UUbTQSWz) | 12 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
