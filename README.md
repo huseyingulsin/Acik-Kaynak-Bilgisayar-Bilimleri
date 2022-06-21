@@ -336,7 +336,7 @@ Bilgisayar Bilimleri'nde bilgisayar organizasyonu, (veya bazen mikromimari de de
 
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
-[Kombinatoryal Optimizasyon (Combinatorial Optimization)](https://www.youtube.com/watch?v=XeAhz1bp1BY&list=PLvNq8wrSYGAU6CF4UleG6HbXa9paQDsLK) | 71 video | 7 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Bilgisayar Organizasyonu (Computer Organization)](https://www.youtube.com/watch?v=XeAhz1bp1BY&list=PLvNq8wrSYGAU6CF4UleG6HbXa9paQDsLK) | 47 video | 5 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Ek Kaynak: Morris Mano Bilgisayar Sistemleri Mimarisi Kitabı] | 500 sayfa | - |  [chat](https://discord.gg/7rX9TGQh)
 
 #### Bilgisayar Ağları (Computer Networks)
