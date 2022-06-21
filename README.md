@@ -61,7 +61,7 @@ Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilir
 
 ---
 Discord: https://discord.gg/7rX9TGQh
-Telegram: https://t.me/computersciencelab - [https://t.me/computersciencelab](https://t.me/csarchive)
+Telegram: https://t.me/computersciencelab - [https://t.me/csarchive](https://t.me/csarchive)
 
 
 
