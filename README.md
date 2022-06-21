@@ -376,7 +376,6 @@ Ders | Süre | Efor |  Tartışma
 [Sayısal Sinyal İşleme(Elektronik Okulu)](https://www.youtube.com/watch?v=0t_-PGYOBtk&list=PLLqNamRiKS5f9xV24u3bttAetQFE0LZF2) | 54 video | 6 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Bilgisayar Grafikleri (Dr. Cengiz Güngör)](https://www.youtube.com/watch?v=Qo4A-MQTarE&list=PLUR6lZV92DNRCv1gd_y1L3PZabM53ujaH) | 27 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Paralel Hesaplama  (Dr. Cengiz Güngör)](https://www.youtube.com/watch?v=ok7Dp4CUKpM&list=PLUR6lZV92DNTctMQc7UFVj4usrFVxp1l5) | 20 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
-[Dağıtık Algoritmalar (Ömer Faruk ÇOLAKOĞLU)](https://www.youtube.com/watch?v=NvPG7S-rd6g&list=PLsYJNXVuNCUZYRLY2gYBICyyNZJT-7t1b) | 8 video | 1 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Hesaplama Kuramına Giriş - Biçimsel Diller ve Otomatlar (Prof.Dr. NEJAT YUMUŞAK)](https://www.youtube.com/watch?v=JNmDsQqF8Hk&list=PLDUOF2Be-kzmLZ2uHD09cG4VKV0rihr-a) | 9 video | 1 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Nesnelerin İnternetinin Temelleri  (BTKAkademi - Sertifikalı)](https://www.btkakademi.gov.tr/portal/course/nesnelerin-interneti-iot-ve-guevenligi-10625) | 23 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Gömülü Sistem Programlama  (Süleyman ŞEKER)](https://www.youtube.com/watch?v=Qwyf1HJ_zgg&list=PLeKWVPCoT9e3Txa-PKwO6fC37JfUU9dbo) | 30 video | 3 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
