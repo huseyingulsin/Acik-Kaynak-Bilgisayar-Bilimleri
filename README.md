@@ -13,6 +13,7 @@ Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilir
 
 - [Müfredat](#mufredat)
 - [1. Dönem](#1-donem)
+  - [Ayrık Matematik (Discrete Mathematics)](#ayrik-matematikdiscrete-mathematics)
   - [C ile Programlamaya Giriş (Introduction to Programming)](#c-i̇le-programlamaya-girişintroduction-to-programming)
   - [Bilgisayar Bilimlerine Giriş (Introduction to Computer Science)](#bilgisayar-bilimlerine-girişintroduction-to-computer-science)
   - [Kalkülüs 1 (Calculus 1)](#kalkülüs-1-calculus-1)
@@ -110,10 +111,19 @@ Ders | Süre | Efor | Önkoşul | Tartışma
 Bilgisayar Bilimleri, matematik disiplininden köken alarak gelişmiş bir disiplindir. Bilgisayar Bilimci olmak için muhakkak gerekli matematik derslerini almalısınız. 
 
 
-Ders | Süre | Efor | Önkoşul | Tartışma
+Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--: | :--:
 [Lineer Cebir (Linear Algebra)](https://www.youtube.com/watch?v=DJ7DoGoU9E0&list=PLcNWqzWzYG2vUwIrhpYTwqm0qboR5yQRA) | 146 video | 14 video/hafta | none | [chat](https://discord.gg/7rX9TGQh)
 
+#### Ayrık Matematik (Discrete Mathematics)
+
+
+Bilgisayar Bilimleri, matematik disiplininden köken alarak gelişmiş bir disiplindir. Bilgisayar Bilimci olmak için muhakkak gerekli matematik derslerini almalısınız. 
+
+
+Ders | Süre | Efor | Önkoşul | Tartışma
+:-- | :--: | :--: | :--: | :--:
+[Ayrık Matematik (Discrete Mathematics)](https://www.youtube.com/watch?v=Y5aJMTJqnKA&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp)   | 211 video | 21 video/hafta | [chat](https://discord.gg/7rX9TGQh)
 
 
 ## 2. dönem 
