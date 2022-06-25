@@ -112,8 +112,8 @@ Bilgisayar Bilimleri, matematik disiplininden köken alarak gelişmiş bir disip
 
 
 Ders | Süre | Efor | Tartışma
-:-- | :--: | :--: | :--: | :--:
-[Lineer Cebir (Linear Algebra)](https://www.youtube.com/watch?v=DJ7DoGoU9E0&list=PLcNWqzWzYG2vUwIrhpYTwqm0qboR5yQRA) | 146 video | 14 video/hafta | none | [chat](https://discord.gg/7rX9TGQh)
+:-- | :--: | :--: | :--: 
+[Lineer Cebir (Linear Algebra)](https://www.youtube.com/watch?v=DJ7DoGoU9E0&list=PLcNWqzWzYG2vUwIrhpYTwqm0qboR5yQRA) | 146 video | 14 video/hafta | [chat](https://discord.gg/7rX9TGQh)
 
 #### Ayrık Matematik (Discrete Mathematics)
 
@@ -121,9 +121,9 @@ Ders | Süre | Efor | Tartışma
 Bilgisayar Bilimleri, matematik disiplininden köken alarak gelişmiş bir disiplindir. Bilgisayar Bilimci olmak için muhakkak gerekli matematik derslerini almalısınız. 
 
 
-Ders | Süre | Efor | Önkoşul | Tartışma
-:-- | :--: | :--: | :--: | :--:
-[Ayrık Matematik (Discrete Mathematics)](https://www.youtube.com/watch?v=Y5aJMTJqnKA&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp)   | 211 video | 21 video/hafta | [chat](https://discord.gg/7rX9TGQh)
+Ders | Süre | Efor |  Tartışma
+:-- | :--: | :--: | :--: 
+[Ayrık Matematik (Discrete Mathematics)](https://www.youtube.com/watch?v=Y5aJMTJqnKA&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp)  | 211 video | 21 video/hafta | [chat](https://discord.gg/7rX9TGQh)
 
 
 ## 2. dönem 
