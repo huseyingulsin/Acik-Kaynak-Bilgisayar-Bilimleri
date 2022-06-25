@@ -13,7 +13,7 @@ Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilir
 
 - [Müfredat](#mufredat)
 - [1. Dönem](#1-donem)
-  - [Ayrık Matematik (Discrete Mathematics)](#ayrik-matematikdiscrete-mathematics)
+  - [Ayrık Matematik (Discrete Mathematics)](#ayrık-matematik-discrete-mathematics)
   - [C ile Programlamaya Giriş (Introduction to Programming)](#c-i̇le-programlamaya-girişintroduction-to-programming)
   - [Bilgisayar Bilimlerine Giriş (Introduction to Computer Science)](#bilgisayar-bilimlerine-girişintroduction-to-computer-science)
   - [Kalkülüs 1 (Calculus 1)](#kalkülüs-1-calculus-1)
