@@ -2,7 +2,7 @@
 
 Türkiye'de üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği, bilgisayar bilimleri vb. bölümlerinde verilen eğitimin çoğunlukla bilgisayar bilimleri(computer science) eğitimi olması veya çok yakın olması ve bu doğrultuda CS eğitiminin günümüzde üniversiteler dışı, internetin olduğu her yerden -başta ingilizce olarak- alınabiliyor hale gelmesi, Türkçe kaynak tarafında bir Bilgisayar Bilimleri müfredatı hazırlama gereksinimi oluşturmuştur.
 
-İster üniversitelerin çeşitli bölümlerinde bilgisayar bilimleri eğitimi alıyor olun, ister üniversite dışından bilgisayar bilimlerine ilgi duyuyor olun bu repoda dönem dönem sunulan dersleri çalışarak Computer Science eğtimi alabilirsiniz.
+İster üniversitelerin çeşitli bölümlerinde bilgisayar bilimleri eğitimi alıyor olun, ister üniversite dışından bilgisayar bilimlerine ilgi duyuyor olun bu repoda dönem dönem sunulan dersleri çalışarak Computer Science eğitimi alabilirsiniz.
 
 Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilirsiniz: https://github.com/ossu/computer-science
 
@@ -30,7 +30,7 @@ Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilir
   - [Nesneye Yönelik Analiz ve Tasarım (Object-Oriented Analysis and Design (OOAD)](#nesneye-yönelik-analiz-ve-tasarım-object-oriented-analysis-and-design-ooad-)
   - [Sayısal Tasarım (Numerical Design)](#sayısal-tasarım-numerical-design)
 - [4. Dönem](#4-donem)
-  - [Veritabanı Yönetimi (Database Managment)](#veritabanı-yönetimi-database-managment)
+  - [Veritabanı Yönetimi (Database Management)](#veritabanı-yönetimi-database-management)
   - [İşletim Sistemleri (Operating Systems)](#i̇şletim-sistemleri-operating-systems)
   - [Nesneye Yönelik Programlama (Object-Oriented Programming)](#nesneye-yönelik-programlama-object-oriented-programming)
   - [Matematiksel Programlama - Yöneylem Araştırması (Operations Research)](#matematiksel-programlama---yöneylem-araştırması-operations-research)
@@ -234,7 +234,7 @@ Ders | Süre | Efor | Tartışma
 ## 4. dönem 
 
 
-#### Veritabanı Yönetimi (Database Managment)
+#### Veritabanı Yönetimi (Database Management)
 
 Veritabanı yönetimi dersiyle veritabanı mühendisliğinin ilgilendiği konuların temellerini alacaksınız.
 
@@ -246,7 +246,7 @@ Veritabanı yönetimi dersiyle veritabanı mühendisliğinin ilgilendiği konula
 
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
-[Veritabanı Yönetimi (Database Managment)](https://www.youtube.com/watch?v=pHKZw5EyTi4&list=PLh9ECzBB8tJOS7WQKdeUaAa5fmPLYAouD) | 20 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
+[Veritabanı Yönetimi (Database Management)](https://www.youtube.com/watch?v=pHKZw5EyTi4&list=PLh9ECzBB8tJOS7WQKdeUaAa5fmPLYAouD) | 20 video | 2 video/hafta |  [chat](https://discord.gg/7rX9TGQh)
 [Ek Kaynak: Veritabanı Yönetimi (Erdinç Uzun)](https://www.youtube.com/watch?v=1xhO7dlSlwE&list=PLq4n-UisAJbIYbb7B-eE3deU_W1p6bPB4&index=1) | 1 video | - | [chat](https://discord.gg/7rX9TGQh)
 [Ek Kaynak: Uygulamalarla SQL Öğreniyorum(Sertifikalı)](https://www.btkakademi.gov.tr/portal/course/uygulamalarla-sql-oegreniyorum-8249) |  |   | [chat](https://discord.gg/7rX9TGQh)
 
