@@ -80,7 +80,7 @@ Eğer daha önce hiç kod yazmadıysanız gelecekteki programcılık maceranızd
 
 Ders | Süre | Efor | Önkoşul | Tartışma
 :-- | :--: | :--: | :--: | :--:
-[C Programlamaya Giriş(Murat Yücedağ)](https://www.youtube.com/watch?v=eIChume5VWQ&list=PLKnjBHu2xXNP-E_TjR-g5Tslm6dW4UH_3) | 60 video | 10 video/hafta | none | [chat](https://discord.gg/PUu2EeGS)
+[C Programlamaya Giriş(Murat Yücedağ)](https://www.youtube.com/watch?v=eIChume5VWQ&list=PLKnjBHu2xXNP-E_TjR-g5Tslm6dW4UH_3) | 60 video | 10 video/hafta | none | [chat](https://discord.gg/BcqMBxPBME)
 [Alternatif Kaynak: C Programlamaya Giriş(Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=gHmaZ2zeLu8&list=PL4eNZvHTpYhnACSWVmRBEr1MviDZ26b5E) | 18 video | 2 video/hafta | none | [chat](https://discord.com/invite/BcqMBxPBME)
 
 #### Bilgisayar Bilimlerine Giriş(Introduction to Computer Science)
