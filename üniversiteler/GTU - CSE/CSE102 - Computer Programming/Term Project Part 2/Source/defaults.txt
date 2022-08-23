@@ -1,0 +1,9 @@
+grid_color:(255,0,255)  // Color of the underlying grid
+foreground_color:(255,255,255)  //Color of the pattern
+background_color:(50,50,50)     // Color of the background
+pattern_thickness:5	//Thickness of the pattern
+grid_thickness:3	//Thickness of the grid
+tile_size:50		// Size of the each grid cell
+canvas_size:(600,600)	// Size of the canvas
+show_grid:False		// Is grid visibile in the output
+angle_offset:(0,0)	// Default offset and angle value.

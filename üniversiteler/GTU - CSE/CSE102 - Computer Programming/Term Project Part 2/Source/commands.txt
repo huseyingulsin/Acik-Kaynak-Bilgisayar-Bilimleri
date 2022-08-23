@@ -1,0 +1,5 @@
+background_color:(128,128,128), foreground_color:(255,0,0), tile_size:100, angle_offset:(45,10), canvas_size:(1000,1000), show_grid:True, archetype:Square, file_name:sq1.eps
+archetype:Hexagon, canvas_size:(600,600), file_name:hex2.eps
+background_color:(128,128,128), foreground_color:(255,0,0) tile_size:100, canvas_size:(1000,1000), show_grid:True, file_name:sqs.eps // Should produce an error because there is no described archetype.
+pattern_thickness:8, foreground_color:(0,127,55), archetype:Square, angle_offset:(24,5), file_name:def1.eps  // This is a valid description because it contains mandatory fields file_name and archetype
+pattern_thickness:8, tile_size:80, canvas_size:(800,800), foreground_color:(0,127,55), angle_offset:(32,6), archetype:Hexagon, file_name:def.eps  

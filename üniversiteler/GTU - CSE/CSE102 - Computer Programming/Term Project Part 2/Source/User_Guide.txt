@@ -1,0 +1,20 @@
+**************************************************************************************************
+			User Guide
+
+	First, use defaults.txt to set defaults settings
+	to your Pattern.
+	
+	in defaults.txt if you do not change anyting, you can change everything 
+	in commands.txt.
+
+	commnads.txt usage is simple as defaults.txt, write your commands and seperate with
+	space, Proper usage of commands is in the defaults.txt.
+
+	Also you have to use archetype:Hexagon/Square, file_name:<your_file.eps> commands.
+	Otherwise it rise an error.
+
+	You can create how much do you want!!
+	Just press enter after type your command for an object. 
+
+
+**************************************************************************************************

@@ -1,0 +1,32 @@
+data
+10
+ 50.0   0.0 P1	// A point at location (0,0) with name “P1”.
+100.0  50.0 P2	// A point at location (100,0).
+ 45.0 100.0 P3
+  0.0 100.0 P4
+P1 P2 L12 // A line from P1 to P2.
+P2 P3 L23
+P3 P4 L34
+P4 P1 L41
+P1 P2 P3 P4 PG1     // A polygon with vertices P1, P2, P3 and P4.
+L12 L23 L34 L41 PG2 // A polygon with edges L12, L23, L34 and L41.
+
+actions
+outpauts.txt
+16
+Distance P1 L12 // Prints the distance between P1 and P2.
+Distance P1 L23 // Prints the distance between P1 and P2.
+Distance P1 P2 // Prints the distance between P1 and P2.
+Distance P2 P3 // Prints the distance between P1 and P2.
+Distance P3 P4 // Prints the distance between P1 and P2.
+Distance P4 P1 // Prints the distance between P1 and P2.
+Length PG1 // Prints the distance between P1 and P2.
+Area PG1 // Prints the distance between P1 and P2.
+Angle L12 L23 // Prints the distance between P1 and P2.
+Angle L12 L34 // Prints the distance between P1 and P2.
+Length L12 // Prints the distance between P1 and P2.
+Length L23 // Prints the distance between P1 and P2.
+Length L34 // Prints the distance between P1 and P2.
+Length L41 // Prints the distance between P1 and P2.
+Length PG2 // Prints the distance between P1 and P2.
+Area PG2 // Prints the distance between P1 and P2.
