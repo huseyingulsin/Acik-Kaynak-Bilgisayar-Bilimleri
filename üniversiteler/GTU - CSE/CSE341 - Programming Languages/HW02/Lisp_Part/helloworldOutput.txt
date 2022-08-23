@@ -1,0 +1,34 @@
+Welcome to perfect lisp interpreter. Type (exit) to exit from program 
+Syntax OK!
+Result: comment 
+Syntax OK!
+Result: 44 
+Syntax OK!
+Result: 27 
+Syntax OK!
+Result: FALSE 
+Syntax OK!
+Result: 6 
+Syntax OK!
+Result: FALSE 
+Syntax OK!
+Result: 32 
+Syntax OK!
+Result: 5 
+Syntax OK!
+Result: FALSE 
+Syntax OK!
+Result: FALSE 
+Syntax OK!
+Result: TRUE 
+Syntax OK!
+Result: TRUE 
+Syntax OK!
+Result: FALSE 
+Syntax OK!
+Result: FALSE 
+Syntax OK!
+Result: 33 
+Syntax OK!
+Result: exit 
+Exiting from interpreter! Have a good day. 
