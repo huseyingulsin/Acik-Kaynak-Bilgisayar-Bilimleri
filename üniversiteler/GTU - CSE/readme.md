@@ -1,0 +1,1 @@
+Gebze Teknik Üniversitesi Bilgisayar Mühendisliği bölümünden dokümanlar
