@@ -1,5 +1,5 @@
  
-**Hacettepe BBM** ile ilgili  [CoderSerdar](https://github.com/coderserdar)'ın [Hacettepe BMM](https://github.com/coderserdar/HacettepeBBM) repo adresine göz atabilirsiniz.
+**Hacettepe BBM** ile ilgili  [CoderSerdar](https://github.com/coderserdar)'ın [Hacettepe BBM](https://github.com/coderserdar/HacettepeBBM) repo adresine göz atabilirsiniz.
 
  - [**Ders Notları** (*Veri Yapıları ve Algoritmalar, Bilgisayar Yapısı, Veri Tabanı vb. konularda faydalı ders notları*)](https://github.com/coderserdar/HacettepeBBM/tree/main/Ders%20Notları/)
  - [**Kaynak Kodlar** (*Özellikle C, C++, Java, Assembly dillerinde okuldaki Lab derslerinde verilen ödevlerle ilgili olarak yazılan projeler*)](https://github.com/coderserdar/HacettepeBBM/tree/main/Kaynak%20Kodlar/)
