@@ -1,0 +1,6 @@
+C:\Users\onat_\Documents\GitHub\deu-private\BIL_2005_gorsel_programlama_dilleri\mult-sqrt-benchmark\bin\Debug\mult-sqrt-benchmark.exe.config
+C:\Users\onat_\Documents\GitHub\deu-private\BIL_2005_gorsel_programlama_dilleri\mult-sqrt-benchmark\bin\Debug\mult-sqrt-benchmark.exe
+C:\Users\onat_\Documents\GitHub\deu-private\BIL_2005_gorsel_programlama_dilleri\mult-sqrt-benchmark\bin\Debug\mult-sqrt-benchmark.pdb
+C:\Users\onat_\Documents\GitHub\deu-private\BIL_2005_gorsel_programlama_dilleri\mult-sqrt-benchmark\obj\Debug\mult-sqrt-benchmark.csprojAssemblyReference.cache
+C:\Users\onat_\Documents\GitHub\deu-private\BIL_2005_gorsel_programlama_dilleri\mult-sqrt-benchmark\obj\Debug\mult-sqrt-benchmark.exe
+C:\Users\onat_\Documents\GitHub\deu-private\BIL_2005_gorsel_programlama_dilleri\mult-sqrt-benchmark\obj\Debug\mult-sqrt-benchmark.pdb
