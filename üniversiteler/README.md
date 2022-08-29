@@ -14,3 +14,4 @@
 Ders | Süre  |  Tartışma
 :-- | :--: |   :--:
 [CS253 - Web Security (Stanford University)](https://www.youtube.com/watch?v=5JJrJGZ_LjM&list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) | 19 video |  [chat](https://discord.gg/BcqMBxPBME)
+[CS-342 Operating Systems (Bilkent University)](https://www.youtube.com/watch?v=9ci5g49nfdE&list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6) | 48 video |  [chat](https://discord.gg/BcqMBxPBME)
