@@ -258,6 +258,7 @@ Bilgisayar Bilimlerinin en önemli derslerinden birisi olan İşletim Sistemleri
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
 [İşletim Sistemleri (Operating Systems)](https://www.youtube.com/watch?v=r2q_XRKrqHQ&list=PLh9ECzBB8tJO9eiwfQbcA2ThMbUSkbOWf) | 33 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Alternatif: Operating Systems (Prof. Dr. İbrahim Körpeoğlu - Bilkent University)](https://www.youtube.com/watch?v=9ci5g49nfdE&list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6) | 48 video | 5 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 
 
 #### Nesneye Yönelik Programlama (Object-Oriented Programming)
@@ -347,6 +348,7 @@ Bilgisayar Bilimleri'nde bilgisayar organizasyonu, (veya bazen mikromimari de de
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
 [Bilgisayar Organizasyonu (Computer Organization)](https://www.youtube.com/watch?v=XeAhz1bp1BY&list=PLvNq8wrSYGAU6CF4UleG6HbXa9paQDsLK) | 47 video | 5 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Computer Organization (William Sawyer - Bilkent University)](https://www.youtube.com/watch?v=CDO28Esqmcg&list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu) | 47 video | 5 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Ek Kaynak: Morris Mano Bilgisayar Sistemleri Mimarisi Kitabı] | 500 sayfa | - |  [chat](https://discord.com/invite/BcqMBxPBME)
 
 #### Bilgisayar Ağları (Computer Networks)
@@ -390,6 +392,7 @@ Ders | Süre | Efor |  Tartışma
 [Nesnelerin İnternetinin Temelleri  (BTKAkademi - Sertifikalı)](https://www.btkakademi.gov.tr/portal/course/nesnelerin-interneti-iot-ve-guevenligi-10625) | 23 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Gömülü Sistem Programlama  (Süleyman ŞEKER)](https://www.youtube.com/watch?v=Qwyf1HJ_zgg&list=PLeKWVPCoT9e3Txa-PKwO6fC37JfUU9dbo) | 30 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Bash Script Temel Eğitimi  (Süleyman ŞEKER)](https://www.youtube.com/watch?v=PN211ARk84M&list=PLeKWVPCoT9e0jHStZlH-z8Gsoo1SBZJlG) | 35 video | 4 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Software Architecture Design  (Prof. Dr. Bedir Tekinerdoğan - Bilkent University)](Prof. Dr. Bedir Tekinerdoğan) | 25 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 
 
 ## Sık Sorulan Sorular
