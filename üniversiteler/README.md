@@ -2,7 +2,7 @@
 
 -----------------------------
 
-### Yurt dışındaki üniversitelerin(stanford, Hardvard, MIT, UC Berkeley, Cornell, Virginia vb.)  kaynakları:
+### Yurt içi ve yurt dışındaki üniversitelerin(stanford, Hardvard, MIT, UC Berkeley, Cornell, Virginia vb.)  kaynakları:
 
 #### dokümanlar, ödevler: --> https://github.com/prakhar1989/awesome-courses
 
@@ -13,6 +13,7 @@ Stanford University: https://online.stanford.edu/explore?type=course&topics[1047
 
 Bilkent University: https://www.youtube.com/channel/UCptPwdatSMCH55IGgC36CIg/playlists
 
+[Doğal Dil İşleme- İsmail Arı Yaz Okulu 2018](https://www.youtube.com/watch?v=CzIUICJXAjY&list=PLMGWwuh6-mEe57iOtf1uo5DgZB288l0CQ) | 6 video |  [chat](https://discord.gg/BcqMBxPBME)
 
 ## Diğerleri:
 
