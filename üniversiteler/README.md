@@ -13,9 +13,13 @@ Stanford University: https://online.stanford.edu/explore?type=course&topics[1047
 
 Bilkent University: https://www.youtube.com/channel/UCptPwdatSMCH55IGgC36CIg/playlists
 
+## Türkçe
+
+Ders | Süre  |  Tartışma
+:-- | :--: |   :--:
 [Doğal Dil İşleme- İsmail Arı Yaz Okulu 2018](https://www.youtube.com/watch?v=CzIUICJXAjY&list=PLMGWwuh6-mEe57iOtf1uo5DgZB288l0CQ) | 6 video |  [chat](https://discord.gg/BcqMBxPBME)
 
-## Diğerleri:
+## İngilizce:
 
 Ders | Süre  |  Tartışma
 :-- | :--: |   :--:
