@@ -392,10 +392,9 @@ Ders | Süre | Efor |  Tartışma
 [Nesnelerin İnternetinin Temelleri  (BTKAkademi - Sertifikalı)](https://www.btkakademi.gov.tr/portal/course/nesnelerin-interneti-iot-ve-guevenligi-10625) | 23 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Gömülü Sistem Programlama  (Süleyman ŞEKER)](https://www.youtube.com/watch?v=Qwyf1HJ_zgg&list=PLeKWVPCoT9e3Txa-PKwO6fC37JfUU9dbo) | 30 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Bash Script Temel Eğitimi  (Süleyman ŞEKER)](https://www.youtube.com/watch?v=PN211ARk84M&list=PLeKWVPCoT9e0jHStZlH-z8Gsoo1SBZJlG) | 35 video | 4 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Veri Bilimine Giriş (Dr. Caner Erden)](https://www.youtube.com/watch?v=eZfyWdHnzR0&list=PLuiPz6iU5SQ-PAjlyz4b3EIIQ6dpZ2DE_) | 21 video | 2 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Software Architecture Design  (Prof. Dr. Bedir Tekinerdoğan - Bilkent University)](https://www.youtube.com/watch?v=gcs8_l3fkVo&list=PLhwVAYxlh5dusp7Y8-K-V0azc_KsCohEg) | 25 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
-[Biyoinformatik (karışık)](https://www.youtube.com/watch?v=4lq_iNpOxq4&list=PL2fSBG4mbWTPnw_qT80an4Sp0xiW5QVf4) | 17 video | 2 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
-[Biçimsel Diller ve Otomata Teorisi](https://www.youtube.com/watch?v=YPmnXhkyrlk&list=PLDUOF2Be-kzmbFkYrxZ1NfXFCmv4Omorx&index=1) | 26 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
-[Veri Bilimine Giriş (Dr. Caner Erden)](https://www.youtube.com/watch?v=eO0FU2psijE&list=PLNVCj-z_HS4a2ehsxJ3dsYFOzbiIZbMFS) | 21 video | 2 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Introduction to Bioinformatics (Prof. Tolga Can - ODTU)](https://www.youtube.com/watch?v=4lq_iNpOxq4&list=PL2fSBG4mbWTPnw_qT80an4Sp0xiW5QVf4) - [docs](https://ocw.metu.edu.tr/course/view.php?id=37) | 17 video | 2 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 
 ## Sık Sorulan Sorular
 #### Bilgisayar Bilimleri (Computer Science) eğitimi alarak hangi alanlarda çalışabilirim?
