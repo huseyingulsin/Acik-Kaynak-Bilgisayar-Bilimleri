@@ -406,6 +406,7 @@ Bilgisayar Bilimlerinin teorik ayağını Hesaplama Kuramı, Algoritmalar ve Ver
 Bilgisayar Bilimleri matematik'den köken almasıyla pek çok farklı disiplin ve alanla ilişkili bütün haline gelmiştir. Dolayısıyla Bilgisayar Bilimleri eğitimi almak kariyerinizde sadece programlama yapmakla kalmayıp bilgisayarın, programlamanın ve yazılımın arkasındaki tüm gelişimi ve disiplinleri anlayabilmenizi sağlar. 
 
 
-
+#### Bazı dersler neden İngilizce?
+Her ne kadar Türkçe eğitim eklemeyi canı gönülden istesem de bazı dersler için henüz hazırlanmış Türkçe eğitim kaynağı bulunmuyor. Bu konuda yapabileceğiniz en büyük destek, ilgili derslere Türkçe altyazı desteğinde bulunmak veya hazırladığınız Türkçe notları paylaşmak olabilir.
 
 devam edecek..
