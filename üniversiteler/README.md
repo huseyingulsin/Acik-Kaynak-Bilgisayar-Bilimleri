@@ -13,6 +13,8 @@ Stanford University: https://online.stanford.edu/explore?type=course&topics[1047
 
 Bilkent University: https://www.youtube.com/channel/UCptPwdatSMCH55IGgC36CIg/playlists
 
+Prof. Onur Mutlu: https://www.youtube.com/c/cmu18447/playlists?view=1&sort=dd&shelf_id=0
+
 ## Türkçe
 
 Ders | Süre  |  Tartışma
