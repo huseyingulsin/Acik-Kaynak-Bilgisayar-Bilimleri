@@ -317,10 +317,11 @@ Veri madenciliği, büyük ölçekli veriler arasından faydalı bilgiye ulaşma
 
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
-[Veri Madenciliğine Giriş (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=k5XNy2XmvOE&list=PLh9ECzBB8tJP8THd6b8DJmw76G6cyPo3o) | 69 video | 7 video/hafta | [chat](https://discord.com/invite/BcqMBxPBME)
+[Veri Madenciliğine Giriş (Introduction to Data Mining)](https://www.youtube.com/watch?v=niXG2zCXj00&list=PLNVCj-z_HS4YpUuNJ-XbPrfeThCF-ROeb) | 32 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Ek Kaynak: Veri Madenciliği Yöntemleri Giriş (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=k5XNy2XmvOE&list=PLh9ECzBB8tJP8THd6b8DJmw76G6cyPo3o) | 69 video | 7 video/hafta | [chat](https://discord.com/invite/BcqMBxPBME)
 [Ek Kaynak:Teorik Veri Madenciliği  (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=iButBaRPpBM&list=PLh9ECzBB8tJNScCBWJFoMdpMkCdpnwUEl) | 12 video | 2 video/hafta | [chat](https://discord.com/invite/BcqMBxPBME)
 [Ek Kaynak:Veri Madenciliği ve İstatistiksel Yöntemler  (Prof. Dr. Şadi Evren Şeker)](https://www.youtube.com/watch?v=iButBaRPpBM&list=PLh9ECzBB8tJNScCBWJFoMdpMkCdpnwUEl) | 19 video | 2 video/hafta | [chat](https://discord.com/invite/BcqMBxPBME)
-[Ek Kaynak: Veri Madenciliğine Giriş (Introduction to Data Mining)](https://www.youtube.com/watch?v=niXG2zCXj00&list=PLNVCj-z_HS4YpUuNJ-XbPrfeThCF-ROeb) | 32 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
+
 
 
 #### Algoritmaların Tasarımı ve Analizi (Design and Analysis of Algorithms)
