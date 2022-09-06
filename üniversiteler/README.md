@@ -29,7 +29,7 @@ Ders | Süre  |  Tartışma
 [CS253 - Web Security (Stanford University)](https://www.youtube.com/watch?v=5JJrJGZ_LjM&list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) | 19 video |  [chat](https://discord.gg/BcqMBxPBME)
 [CS-342 Operating Systems (Bilkent University)](https://www.youtube.com/watch?v=9ci5g49nfdE&list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6) | 48 video |  [chat](https://discord.gg/BcqMBxPBME)
 [Computer Architecture (ETH Zürich University - Prof. Onur Mutlu)](https://www.youtube.com/watch?v=4yfkM_5EFgo&list=PL5PHm2jkkXmiSGtFXE8IKRQyIZ1wNFknx) | 26 video |  [chat](https://discord.gg/BcqMBxPBME)
-[Computer Security (MIT University - Prof. James Mickens)]([https://www.youtube.com/watch?v=4yfkM_5EFgo&list=PL5PHm2jkkXmiSGtFXE8IKRQyIZ1wNFknx](https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh]) | 22 video |  [chat](https://discord.gg/BcqMBxPBME)
-[Introduction to Algorithms (MIT University - Dr. Jason Ku)]([https://www.youtube.com/watch?v=4yfkM_5EFgo&list=PL5PHm2jkkXmiSGtFXE8IKRQyIZ1wNFknx](https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh]) | 32 video |  [chat](https://discord.gg/BcqMBxPBME)
+[Computer Security (MIT University - Prof. James Mickens)](https://www.youtube.com/watch?v=GqmQg-cszw4&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh) | 22 video |  [chat](https://discord.gg/BcqMBxPBME)
+[Introduction to Algorithms (MIT University - Dr. Jason Ku)](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY) | 32 video |  [chat](https://discord.gg/BcqMBxPBME)
 
 
