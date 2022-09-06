@@ -15,6 +15,7 @@ Bilkent University: https://www.youtube.com/channel/UCptPwdatSMCH55IGgC36CIg/pla
 
 Prof. Onur Mutlu: https://www.youtube.com/c/cmu18447/playlists?view=1&sort=dd&shelf_id=0
 
+MIT - Computer Science: https://www.youtube.com/c/mitocw/playlists?view=50&sort=dd&shelf_id=5
 ## Türkçe
 
 Ders | Süre  |  Tartışma
