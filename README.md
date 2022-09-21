@@ -6,7 +6,7 @@ Türkiye'de üniversitelerin bilgisayar mühendisliği, yazılım mühendisliği
 
 Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilirsiniz: https://github.com/ossu/computer-science
 
-*not: müfredat düzeni Türkiye'deki bilgisayar bilimleri eğitimi veren 4 yıllık(8 dönem) lisans bölümlerinin dersleri, Dokuz Eylül Üniversitesi Bilgisayar Bilimleri Lisans bölümü ve OSSU referans alınarak hazırlanılmıştır.*
+
 
 # Müfredat
 
@@ -409,5 +409,7 @@ Bilgisayar Bilimleri matematik'den köken almasıyla pek çok farklı disiplin v
 
 #### Bazı dersler neden İngilizce?
 Her ne kadar Türkçe eğitim eklemeyi canı gönülden istesem de bazı dersler için henüz hazırlanmış Türkçe eğitim kaynağı bulunmuyor. Bu konuda yapabileceğiniz en büyük destek, ilgili derslere Türkçe altyazı desteğinde bulunmak veya hazırladığınız Türkçe notları paylaşmak olabilir.
+
+*not: müfredat düzeni Türkiye'deki bilgisayar bilimleri eğitimi veren 4 yıllık(8 dönem) lisans bölümlerinin dersleri, Dokuz Eylül Üniversitesi Bilgisayar Bilimleri Lisans bölümü ve OSSU referans alınarak hazırlanılmıştır.*
 
 devam edecek..
