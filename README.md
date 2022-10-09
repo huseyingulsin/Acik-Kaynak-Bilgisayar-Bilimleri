@@ -397,6 +397,7 @@ Ders | Süre | Efor |  Tartışma
 [Software Architecture Design  (Prof. Dr. Bedir Tekinerdoğan - Bilkent University)](https://www.youtube.com/watch?v=gcs8_l3fkVo&list=PLhwVAYxlh5dusp7Y8-K-V0azc_KsCohEg) | 25 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Introduction to Bioinformatics (Prof. Dr. Tolga Can - ODTU)](https://www.youtube.com/watch?v=eZfyWdHnzR0&list=PLuiPz6iU5SQ-PAjlyz4b3EIIQ6dpZ2DE_) - [docs](https://ocw.metu.edu.tr/course/view.php?id=37) | 17 video | 2 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Optimization Algorithms (Prof. Dr. Constantine Caramanis - Texas University)](https://www.youtube.com/watch?v=ee-HYD6kKqM&list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc) | 58 video | 6 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Deep Learning (Prof. Dr. Andrew Ng - Stanford University)](https://www.coursera.org/specializations/deep-learning) | -| - |  [chat](https://discord.com/invite/BcqMBxPBME)
 
 ## Sık Sorulan Sorular
 #### Bilgisayar Bilimleri (Computer Science) eğitimi alarak hangi alanlarda çalışabilirim?
