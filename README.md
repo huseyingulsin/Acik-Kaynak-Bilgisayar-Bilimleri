@@ -27,7 +27,7 @@ Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilir
   - [Çizge Kuramı (Graph Theory)](#çizge-kuramı-graph-theory)
   - [Algoritmalar ve Veri Yapıları (Algorithms and Data Structures)](#algoritmalar-ve-veri-yapıları-algorithms-and-data-structures)
   - [Sayısal Çözümleme (Numerical Analysis)](#sayısal-çözümleme-numerical-analysis)
-  - [Nesneye Yönelik Analiz ve Tasarım (Object-Oriented Analysis and Design (OOAD)](#nesneye-yönelik-analiz-ve-tasarım-object-oriented-analysis-and-design-ooad-)
+  - [Nesneye Yönelik Analiz ve Tasarım (Object-Oriented Analysis and Design (OOAD)](#nesneye-yönelik-analiz-ve-tasarım-object-oriented-analysis-and-design-ooad-)mustafa çık
   - [Sayısal Tasarım (Numerical Design)](#sayısal-tasarım-numerical-design)
 - [4. Dönem](#4-donem)
   - [Veritabanı Yönetimi (Database Management)](#veritabanı-yönetimi-database-management)
@@ -313,7 +313,7 @@ Ders | Süre | Efor |  Tartışma
 
 #### Veri Madenciliğine Giriş (Introduction to Data Mining)
 
-Veri madenciliği, büyük ölçekli veriler arasından faydalı bilgiye ulaşma, bilgiyi madenleme işidir.
+Veri madenciliği, büyük ölçekli veriler arasından faydalı bilgiye ulaşma, bilgiyi madenleme işidir. Yapay Zeka'nın en popüler konularından birisi olan Veri Bilimi alanına bu dersle giriş yapacaksınız.
 
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
@@ -325,6 +325,8 @@ Ders | Süre | Efor |  Tartışma
 
 
 #### Algoritmaların Tasarımı ve Analizi (Design and Analysis of Algorithms)
+
+Veri yapıları ve algoritmalar dersinde görülen algoritmaların daha verimli tasarlanması ve analiz edilmesiyle ilgileneceğiniz bu dersle birlikte algoritmalara bakış açınız tamamiyle değişecek. Yazılım mühendisliği alanında ilerlemek isteyenler için başucu dersi yapılmalıdır.
 
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
