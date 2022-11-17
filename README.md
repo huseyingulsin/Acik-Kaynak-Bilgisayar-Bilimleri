@@ -27,7 +27,7 @@ Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilir
   - [Çizge Kuramı (Graph Theory)](#çizge-kuramı-graph-theory)
   - [Algoritmalar ve Veri Yapıları (Algorithms and Data Structures)](#algoritmalar-ve-veri-yapıları-algorithms-and-data-structures)
   - [Sayısal Çözümleme (Numerical Analysis)](#sayısal-çözümleme-numerical-analysis)
-  - [Nesneye Yönelik Analiz ve Tasarım (Object-Oriented Analysis and Design (OOAD)](#nesneye-yönelik-analiz-ve-tasarım-object-oriented-analysis-and-design-ooad-)mustafa çık
+  - [Nesneye Yönelik Analiz ve Tasarım (Object-Oriented Analysis and Design (OOAD)](#nesneye-yönelik-analiz-ve-tasarım-object-oriented-analysis-and-design-ooad-)
   - [Sayısal Tasarım (Numerical Design)](#sayısal-tasarım-numerical-design)
 - [4. Dönem](#4-donem)
   - [Veritabanı Yönetimi (Database Management)](#veritabanı-yönetimi-database-management)
