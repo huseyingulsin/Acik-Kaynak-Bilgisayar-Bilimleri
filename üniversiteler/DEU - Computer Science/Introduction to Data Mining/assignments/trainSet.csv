@@ -1,0 +1,751 @@
+credit_history,credit_amount,employment,property_magnitude,age,class
+'existing paid',1924,1<=X<4,'life insurance',38,good
+'existing paid',7297,>=7,'no known property',36,bad
+'existing paid',1278,>=7,'real estate',36,good
+'existing paid',2039,1<=X<4,'real estate',20,bad
+'critical/other existing credit',4272,>=7,'life insurance',24,good
+'existing paid',518,1<=X<4,'real estate',29,good
+'critical/other existing credit',1424,4<=X<7,'life insurance',26,good
+'critical/other existing credit',3499,1<=X<4,'real estate',29,bad
+'existing paid',2515,1<=X<4,'real estate',43,good
+'existing paid',9034,<1,'no known property',29,bad
+'existing paid',2930,4<=X<7,'real estate',27,good
+'critical/other existing credit',3676,1<=X<4,'real estate',37,good
+'critical/other existing credit',9629,4<=X<7,car,24,bad
+'existing paid',1352,unemployed,'life insurance',23,good
+'delayed previously',932,1<=X<4,'real estate',24,good
+'critical/other existing credit',3074,1<=X<4,'real estate',33,good
+'critical/other existing credit',2292,unemployed,car,42,bad
+'existing paid',1670,<1,car,22,bad
+'critical/other existing credit',7629,>=7,car,46,good
+'existing paid',709,<1,'real estate',27,good
+'no credits/all paid',1337,<1,car,34,bad
+'existing paid',640,1<=X<4,'real estate',49,good
+'existing paid',3590,1<=X<4,'life insurance',29,good
+'critical/other existing credit',2463,4<=X<7,'life insurance',27,good
+'existing paid',2279,1<=X<4,'no known property',37,good
+'existing paid',1068,>=7,car,28,good
+'existing paid',1282,1<=X<4,car,32,bad
+'no credits/all paid',8358,<1,car,30,good
+'all paid',5129,>=7,'no known property',74,bad
+'critical/other existing credit',1544,4<=X<7,'real estate',42,good
+'delayed previously',11760,4<=X<7,'no known property',32,good
+'existing paid',2315,>=7,'real estate',52,good
+'no credits/all paid',8072,<1,car,25,good
+'existing paid',3509,4<=X<7,'real estate',25,good
+'existing paid',2507,>=7,'no known property',51,good
+'critical/other existing credit',2404,1<=X<4,car,?,good
+'existing paid',6560,4<=X<7,'life insurance',24,bad
+?,2687,4<=X<7,'life insurance',26,good
+'critical/other existing credit',7374,unemployed,?,40,good
+'existing paid',3181,<1,'life insurance',26,good
+'existing paid',3213,<1,'real estate',25,good
+'all paid',1546,4<=X<7,car,24,bad
+'existing paid',3959,unemployed,'life insurance',30,good
+'no credits/all paid',18424,1<=X<4,'life insurance',32,bad
+'existing paid',2679,<1,'no known property',29,good
+'existing paid',3488,4<=X<7,car,23,good
+'existing paid',1403,1<=X<4,car,?,good
+'existing paid',484,4<=X<7,'real estate',28,good
+'existing paid',2136,1<=X<4,'real estate',25,good
+'all paid',7685,4<=X<7,car,37,bad
+'existing paid',1543,1<=X<4,'real estate',33,good
+'existing paid',3416,1<=X<4,car,27,good
+'existing paid',5381,unemployed,'no known property',40,good
+'critical/other existing credit',1602,>=7,car,30,good
+'critical/other existing credit',936,>=7,car,52,good
+'existing paid',2327,<1,'real estate',25,bad
+'delayed previously',960,4<=X<7,'life insurance',30,good
+'existing paid',2039,<1,'life insurance',22,bad
+'critical/other existing credit',1382,4<=X<7,'real estate',26,good
+'existing paid',3835,>=7,'real estate',45,good
+'no credits/all paid',1108,4<=X<7,'real estate',28,bad
+'existing paid',1963,4<=X<7,car,31,good
+'existing paid',1881,1<=X<4,car,44,good
+'existing paid',10297,4<=X<7,'no known property',39,bad
+'existing paid',1657,1<=X<4,'real estate',27,good
+'existing paid',841,4<=X<7,'real estate',23,good
+'critical/other existing credit',6331,>=7,'no known property',46,bad
+'existing paid',3235,>=7,car,26,good
+'no credits/all paid',4605,>=7,'no known property',24,bad
+'no credits/all paid',950,>=7,car,33,bad
+'existing paid',2212,4<=X<7,car,?,good
+'existing paid',2359,unemployed,'life insurance',33,bad
+'critical/other existing credit',5302,>=7,'no known property',36,good
+'critical/other existing credit',7127,<1,'life insurance',23,bad
+'delayed previously',6224,>=7,'no known property',50,bad
+'delayed previously',683,<1,'life insurance',29,good
+'existing paid',7409,>=7,'life insurance',37,good
+'existing paid',3060,4<=X<7,'real estate',28,bad
+'critical/other existing credit',1287,>=7,'real estate',37,good
+'critical/other existing credit',1887,1<=X<4,'real estate',28,good
+'existing paid',1258,4<=X<7,'real estate',25,good
+'existing paid',1376,4<=X<7,car,?,good
+'existing paid',1469,>=7,'real estate',41,good
+'critical/other existing credit',3939,1<=X<4,'real estate',40,good
+'existing paid',6468,unemployed,'real estate',60,good
+'existing paid',1414,1<=X<4,'real estate',33,good
+'existing paid',1374,unemployed,'life insurance',75,good
+'all paid',1445,4<=X<7,car,49,good
+'existing paid',8229,1<=X<4,'life insurance',26,bad
+'delayed previously',2427,>=7,'life insurance',42,good
+'existing paid',4817,4<=X<7,'life insurance',31,bad
+'delayed previously',1965,1<=X<4,car,42,good
+'critical/other existing credit',860,>=7,'no known property',39,good
+'critical/other existing credit',1275,1<=X<4,'real estate',36,good
+'existing paid',1388,1<=X<4,'real estate',26,good
+'existing paid',1410,>=7,'real estate',35,good
+'critical/other existing credit',1478,>=7,car,44,good
+'existing paid',2864,1<=X<4,'real estate',34,bad
+'all paid',433,<1,'life insurance',24,bad
+'critical/other existing credit',2625,>=7,'life insurance',43,bad
+'existing paid',2848,1<=X<4,'real estate',32,good
+'existing paid',2476,>=7,'real estate',46,good
+'critical/other existing credit',2012,4<=X<7,car,61,good
+'existing paid',7308,unemployed,'no known property',70,good
+'existing paid',3059,4<=X<7,'real estate',61,good
+'delayed previously',2538,>=7,car,47,bad
+'delayed previously',3594,<1,'life insurance',46,good
+'critical/other existing credit',1245,1<=X<4,car,33,bad
+'delayed previously',4297,>=7,'no known property',40,bad
+'critical/other existing credit',3398,4<=X<7,'real estate',39,good
+'critical/other existing credit',3868,>=7,car,41,good
+'existing paid',654,1<=X<4,car,28,bad
+'critical/other existing credit',13756,>=7,'no known property',63,good
+'delayed previously',1503,1<=X<4,'real estate',41,good
+'existing paid',2329,<1,'real estate',45,good
+'existing paid',918,1<=X<4,'life insurance',30,bad
+'critical/other existing credit',4249,unemployed,car,28,bad
+'existing paid',2108,4<=X<7,'real estate',29,good
+'existing paid',2473,unemployed,car,25,bad
+'existing paid',14555,unemployed,'life insurance',23,bad
+'existing paid',3430,>=7,car,31,good
+'existing paid',3763,4<=X<7,'real estate',24,good
+'existing paid',1313,>=7,car,20,good
+'existing paid',1295,<1,car,25,bad
+'existing paid',5742,4<=X<7,car,31,good
+'existing paid',2659,1<=X<4,car,28,good
+'delayed previously',3863,1<=X<4,'no known property',32,good
+'critical/other existing credit',3485,<1,'real estate',44,good
+'existing paid',9398,<1,car,28,bad
+'existing paid',1223,>=7,'real estate',46,bad
+'critical/other existing credit',5800,1<=X<4,car,34,good
+'existing paid',2924,1<=X<4,'no known property',63,good
+'critical/other existing credit',5103,<1,'no known property',47,good
+'critical/other existing credit',1935,>=7,?,31,bad
+'critical/other existing credit',1288,>=7,'real estate',48,good
+'critical/other existing credit',1501,>=7,car,34,bad
+'no credits/all paid',12204,1<=X<4,car,48,good
+'delayed previously',?,1<=X<4,'real estate',32,good
+'critical/other existing credit',1495,>=7,'real estate',38,good
+'existing paid',9277,1<=X<4,'no known property',48,good
+'existing paid',1236,1<=X<4,'life insurance',50,good
+'critical/other existing credit',6842,1<=X<4,'life insurance',46,good
+'existing paid',1819,1<=X<4,'no known property',37,bad
+'delayed previously',?,1<=X<4,'life insurance',47,good
+'critical/other existing credit',1459,1<=X<4,car,43,good
+'existing paid',2603,1<=X<4,car,28,good
+'existing paid',6468,unemployed,'no known property',52,bad
+?,4280,1<=X<4,car,26,bad
+'critical/other existing credit',629,>=7,'life insurance',32,good
+'delayed previously',4272,1<=X<4,'life insurance',26,good
+'existing paid',3711,1<=X<4,car,27,good
+'no credits/all paid',5003,1<=X<4,'life insurance',29,bad
+'delayed previously',15653,4<=X<7,car,21,good
+'existing paid',8133,1<=X<4,'life insurance',30,good
+'existing paid',753,1<=X<4,'real estate',64,good
+'critical/other existing credit',1409,>=7,'real estate',54,good
+'critical/other existing credit',3077,>=7,car,40,good
+'existing paid',2214,1<=X<4,'life insurance',24,good
+'delayed previously',4454,1<=X<4,'real estate',34,good
+'existing paid',433,unemployed,'real estate',22,bad
+'critical/other existing credit',3578,>=7,'real estate',47,good
+'critical/other existing credit',4530,4<=X<7,car,26,good
+'existing paid',1766,1<=X<4,'life insurance',?,good
+'existing paid',2028,1<=X<4,car,30,good
+'existing paid',3399,>=7,car,37,good
+'critical/other existing credit',338,>=7,car,52,good
+'existing paid',2570,1<=X<4,'real estate',21,bad
+'existing paid',1546,1<=X<4,'real estate',31,good
+'existing paid',900,1<=X<4,car,23,bad
+'existing paid',2697,1<=X<4,'real estate',32,good
+'critical/other existing credit',2134,1<=X<4,car,48,good
+'existing paid',866,1<=X<4,'real estate',25,good
+'critical/other existing credit',1864,1<=X<4,'real estate',30,bad
+'delayed previously',1555,>=7,'no known property',55,bad
+'existing paid',2600,1<=X<4,'no known property',65,bad
+'existing paid',1514,1<=X<4,'real estate',22,good
+'critical/other existing credit',1216,<1,'no known property',38,bad
+'delayed previously',8648,<1,car,27,bad
+'critical/other existing credit',2751,>=7,car,38,good
+'critical/other existing credit',2748,>=7,'no known property',57,good
+'existing paid',929,4<=X<7,car,31,good
+'delayed previously',6681,1<=X<4,'no known property',38,good
+'existing paid',1893,1<=X<4,'life insurance',29,good
+'existing paid',10222,4<=X<7,car,37,good
+'critical/other existing credit',3617,>=7,car,28,good
+'critical/other existing credit',4716,<1,'real estate',44,good
+'existing paid',3959,1<=X<4,'life insurance',29,bad
+'all paid',1559,4<=X<7,car,50,good
+'existing paid',1568,1<=X<4,'life insurance',24,good
+'existing paid',4657,1<=X<4,car,30,good
+'existing paid',1987,1<=X<4,'real estate',21,bad
+'no credits/all paid',3104,4<=X<7,'life insurance',31,good
+'critical/other existing credit',1360,1<=X<4,'life insurance',31,good
+'delayed previously',7432,1<=X<4,'life insurance',54,good
+'existing paid',1238,unemployed,'life insurance',36,good
+'existing paid',1053,<1,'real estate',27,good
+'critical/other existing credit',1244,>=7,'life insurance',41,good
+'existing paid',3149,<1,'no known property',22,good
+'critical/other existing credit',2121,1<=X<4,'life insurance',30,good
+'existing paid',3913,1<=X<4,'real estate',23,good
+?,3758,unemployed,'no known property',23,good
+'critical/other existing credit',4576,unemployed,car,27,good
+'existing paid',6313,>=7,car,41,good
+'existing paid',1409,unemployed,'real estate',64,good
+'existing paid',11560,1<=X<4,car,23,bad
+'existing paid',3249,4<=X<7,'no known property',39,good
+'delayed previously',3643,>=7,'life insurance',27,good
+'critical/other existing credit',10623,>=7,'no known property',38,good
+'existing paid',902,4<=X<7,'life insurance',21,bad
+'existing paid',8588,>=7,car,45,good
+?,1213,>=7,'life insurance',47,good
+'delayed previously',1553,4<=X<7,'life insurance',23,good
+'existing paid',759,4<=X<7,'real estate',26,bad
+'critical/other existing credit',7758,>=7,'no known property',29,good
+'critical/other existing credit',2122,1<=X<4,'real estate',39,good
+'critical/other existing credit',1264,>=7,'no known property',57,good
+'existing paid',12389,1<=X<4,'no known property',37,bad
+'existing paid',7882,4<=X<7,'life insurance',45,good
+'existing paid',6999,4<=X<7,'real estate',34,bad
+'existing paid',1377,>=7,'no known property',47,good
+'critical/other existing credit',1055,<1,'life insurance',30,good
+'existing paid',2923,1<=X<4,car,28,good
+'existing paid',4686,1<=X<4,'no known property',32,good
+'critical/other existing credit',7596,>=7,car,63,good
+'existing paid',1300,>=7,'no known property',45,good
+'existing paid',1979,>=7,car,?,good
+'critical/other existing credit',3148,1<=X<4,car,31,good
+'critical/other existing credit',2022,1<=X<4,car,37,good
+'existing paid',2301,<1,'life insurance',22,good
+'no credits/all paid',3244,1<=X<4,car,33,good
+'delayed previously',4712,1<=X<4,'life insurance',37,good
+'existing paid',2996,1<=X<4,car,20,bad
+'existing paid',5179,4<=X<7,'life insurance',29,bad
+'critical/other existing credit',3380,4<=X<7,'real estate',37,good
+'no credits/all paid',3844,4<=X<7,'no known property',34,bad
+'critical/other existing credit',2069,1<=X<4,car,26,good
+'existing paid',5595,1<=X<4,car,24,bad
+'existing paid',754,>=7,'life insurance',38,good
+'existing paid',672,unemployed,'real estate',54,good
+'existing paid',3650,<1,car,22,good
+'existing paid',1961,>=7,car,23,good
+'no credits/all paid',2613,1<=X<4,car,27,good
+'existing paid',1113,1<=X<4,'real estate',26,good
+'critical/other existing credit',3878,<1,car,37,good
+'existing paid',1867,>=7,car,58,good
+'critical/other existing credit',2132,<1,'real estate',27,good
+'existing paid',1473,<1,'real estate',39,good
+'existing paid',3599,4<=X<7,car,26,good
+'existing paid',9055,1<=X<4,'no known property',35,good
+'existing paid',1331,<1,car,22,bad
+'existing paid',1924,<1,'real estate',27,bad
+'existing paid',886,1<=X<4,car,21,good
+'existing paid',6350,>=7,'life insurance',31,bad
+'critical/other existing credit',1164,>=7,'no known property',51,good
+'critical/other existing credit',1163,1<=X<4,'real estate',44,good
+'all paid',6458,>=7,'no known property',39,bad
+'delayed previously',2629,1<=X<4,car,29,good
+'critical/other existing credit',2611,>=7,'real estate',46,good
+'no credits/all paid',4221,1<=X<4,car,28,good
+'existing paid',1845,1<=X<4,'no known property',23,bad
+'existing paid',1330,<1,'real estate',26,good
+'critical/other existing credit',2820,<1,car,27,bad
+'all paid',1569,>=7,car,34,good
+'existing paid',1820,1<=X<4,'life insurance',30,good
+'existing paid',2606,<1,'life insurance',28,good
+'critical/other existing credit',1154,unemployed,'real estate',57,good
+'delayed previously',7678,4<=X<7,car,40,good
+'all paid',609,<1,'real estate',26,bad
+'existing paid',685,4<=X<7,car,25,bad
+'critical/other existing credit',6361,>=7,'no known property',41,good
+'critical/other existing credit',3905,1<=X<4,'real estate',36,good
+'critical/other existing credit',?,1<=X<4,'life insurance',25,good
+'critical/other existing credit',1038,4<=X<7,'life insurance',49,good
+'existing paid',1901,1<=X<4,car,29,good
+'existing paid',3577,1<=X<4,'real estate',26,good
+'critical/other existing credit',1520,>=7,'life insurance',63,good
+'existing paid',745,1<=X<4,'real estate',28,bad
+'existing paid',660,4<=X<7,'real estate',23,good
+'existing paid',5190,>=7,'life insurance',48,good
+'existing paid',3660,1<=X<4,car,28,good
+'existing paid',2051,<1,'real estate',33,good
+'existing paid',1103,4<=X<7,'real estate',29,good
+'existing paid',1275,<1,'life insurance',23,good
+'critical/other existing credit',1322,1<=X<4,car,40,good
+'all paid',2483,1<=X<4,'real estate',22,good
+'critical/other existing credit',2442,>=7,car,43,good
+'all paid',626,1<=X<4,'real estate',24,bad
+'existing paid',3160,>=7,'life insurance',41,good
+'existing paid',7814,4<=X<7,car,38,good
+'existing paid',1123,1<=X<4,car,29,bad
+'all paid',3990,<1,'no known property',29,good
+'existing paid',662,<1,'real estate',41,good
+'existing paid',1158,1<=X<4,car,26,good
+'critical/other existing credit',1655,>=7,'real estate',63,good
+'existing paid',3914,1<=X<4,'real estate',38,bad
+'critical/other existing credit',1149,1<=X<4,'real estate',46,good
+'all paid',1837,4<=X<7,'no known property',34,bad
+'critical/other existing credit',932,4<=X<7,'life insurance',39,good
+'existing paid',1922,1<=X<4,'life insurance',37,bad
+'existing paid',2578,unemployed,'no known property',55,good
+'existing paid',4473,>=7,car,31,good
+'existing paid',2462,1<=X<4,car,22,bad
+'critical/other existing credit',2028,4<=X<7,'life insurance',30,good
+'critical/other existing credit',939,4<=X<7,'real estate',28,bad
+'existing paid',1533,<1,'life insurance',43,bad
+'critical/other existing credit',11054,1<=X<4,car,30,good
+'critical/other existing credit',975,1<=X<4,'life insurance',25,good
+'existing paid',458,1<=X<4,'real estate',24,good
+'no credits/all paid',9436,1<=X<4,'life insurance',39,good
+'delayed previously',1908,>=7,'real estate',66,bad
+'critical/other existing credit',250,1<=X<4,'real estate',41,good
+'critical/other existing credit',884,>=7,car,36,bad
+'existing paid',1977,>=7,'no known property',40,bad
+'all paid',3349,<1,'no known property',30,bad
+'all paid',339,>=7,car,45,good
+'existing paid',1936,4<=X<7,car,23,good
+'existing paid',1285,4<=X<7,'no known property',32,bad
+'existing paid',1521,1<=X<4,?,31,good
+'critical/other existing credit',4796,>=7,'no known property',56,good
+'existing paid',2323,4<=X<7,car,24,good
+'existing paid',1374,1<=X<4,'real estate',36,good
+'critical/other existing credit',2197,4<=X<7,car,43,good
+'existing paid',2439,<1,'real estate',35,bad
+'existing paid',3077,1<=X<4,car,52,good
+'existing paid',1478,4<=X<7,car,22,bad
+'existing paid',4844,unemployed,car,33,bad
+'existing paid',1309,1<=X<4,'life insurance',27,bad
+'existing paid',795,<1,'life insurance',53,bad
+'critical/other existing credit',3777,1<=X<4,'real estate',50,good
+'existing paid',7763,>=7,'no known property',42,bad
+'critical/other existing credit',2096,4<=X<7,'real estate',49,good
+'existing paid',760,4<=X<7,'real estate',44,good
+'existing paid',1418,1<=X<4,'real estate',35,good
+'existing paid',15672,1<=X<4,car,23,bad
+'existing paid',2782,4<=X<7,car,31,good
+'critical/other existing credit',5743,<1,'no known property',24,good
+'existing paid',947,4<=X<7,'no known property',38,bad
+'critical/other existing credit',2238,1<=X<4,car,25,good
+'existing paid',674,4<=X<7,'life insurance',20,bad
+'existing paid',3518,1<=X<4,'life insurance',26,good
+'existing paid',1262,>=7,'life insurance',?,good
+'all paid',7485,unemployed,'real estate',53,bad
+'existing paid',2760,>=7,'no known property',36,good
+'existing paid',5324,>=7,'no known property',35,good
+'existing paid',951,<1,car,27,bad
+'existing paid',7721,<1,'life insurance',?,good
+'delayed previously',1209,unemployed,'life insurance',47,bad
+'critical/other existing credit',5771,4<=X<7,car,25,good
+'existing paid',907,<1,'real estate',26,good
+'delayed previously',6836,>=7,'no known property',63,bad
+'critical/other existing credit',571,>=7,'real estate',65,good
+'existing paid',2647,1<=X<4,'real estate',44,good
+'existing paid',2631,1<=X<4,car,28,bad
+'existing paid',3105,<1,car,25,good
+'all paid',12169,unemployed,'no known property',36,good
+'critical/other existing credit',1597,>=7,'no known property',54,good
+'critical/other existing credit',3394,unemployed,car,65,good
+'critical/other existing credit',1800,1<=X<4,car,24,good
+'critical/other existing credit',1455,4<=X<7,'real estate',42,good
+'critical/other existing credit',2366,4<=X<7,car,36,good
+'existing paid',4210,1<=X<4,car,26,bad
+'critical/other existing credit',2326,1<=X<4,car,27,good
+'existing paid',4788,4<=X<7,'life insurance',26,good
+'delayed previously',2764,1<=X<4,car,26,good
+'existing paid',1533,<1,car,38,good
+'critical/other existing credit',926,unemployed,'life insurance',38,good
+'delayed previously',2169,1<=X<4,car,28,bad
+'critical/other existing credit',1804,<1,'life insurance',44,good
+'no credits/all paid',8318,>=7,'no known property',42,bad
+'existing paid',2255,<1,'life insurance',54,good
+'critical/other existing credit',1829,>=7,car,46,good
+'existing paid',2767,>=7,car,61,bad
+'critical/other existing credit',1935,>=7,'real estate',43,good
+'critical/other existing credit',700,>=7,'no known property',36,good
+'existing paid',368,>=7,'life insurance',38,good
+'no credits/all paid',4241,1<=X<4,'real estate',36,bad
+'critical/other existing credit',2831,1<=X<4,car,33,good
+'critical/other existing credit',5801,>=7,'life insurance',49,good
+'delayed previously',7582,unemployed,'no known property',31,good
+'existing paid',4308,<1,'life insurance',24,bad
+'no credits/all paid',2278,<1,car,28,bad
+'existing paid',2964,>=7,'no known property',49,good
+'existing paid',776,1<=X<4,'real estate',28,good
+'all paid',1750,>=7,'life insurance',45,good
+'critical/other existing credit',5998,1<=X<4,'no known property',27,bad
+'no credits/all paid',4583,1<=X<4,'real estate',32,good
+'existing paid',959,1<=X<4,car,29,bad
+'existing paid',1444,<1,'life insurance',23,good
+'all paid',6850,unemployed,'life insurance',34,bad
+'existing paid',1200,1<=X<4,'life insurance',23,good
+'critical/other existing credit',3535,4<=X<7,car,37,good
+'critical/other existing credit',3275,>=7,car,36,good
+'existing paid',909,>=7,'life insurance',36,good
+'critical/other existing credit',1532,1<=X<4,car,31,good
+'critical/other existing credit',609,4<=X<7,'life insurance',37,good
+'critical/other existing credit',3331,>=7,'life insurance',42,good
+'existing paid',2631,1<=X<4,'real estate',25,good
+'existing paid',1442,4<=X<7,car,23,bad
+'critical/other existing credit',731,>=7,'real estate',47,good
+'existing paid',4623,1<=X<4,'life insurance',40,bad
+'all paid',1442,4<=X<7,'no known property',32,bad
+'existing paid',2718,1<=X<4,'life insurance',20,bad
+'existing paid',3976,4<=X<7,car,35,good
+'existing paid',1967,>=7,car,20,good
+'existing paid',6948,1<=X<4,car,35,good
+'existing paid',741,unemployed,'life insurance',22,bad
+'existing paid',1364,4<=X<7,'real estate',59,good
+'existing paid',454,<1,'life insurance',22,good
+'existing paid',4795,<1,'no known property',30,good
+'critical/other existing credit',362,1<=X<4,car,52,good
+'existing paid',1884,>=7,car,39,good
+'existing paid',2142,>=7,'real estate',28,good
+'critical/other existing credit',2578,>=7,car,34,good
+'critical/other existing credit',1503,4<=X<7,'real estate',42,good
+'critical/other existing credit',1928,<1,'real estate',31,bad
+'critical/other existing credit',5954,4<=X<7,car,38,good
+'existing paid',727,<1,'no known property',33,bad
+'no credits/all paid',15945,<1,'no known property',58,bad
+'critical/other existing credit',1927,1<=X<4,car,33,good
+'existing paid',6288,1<=X<4,'no known property',42,bad
+'critical/other existing credit',3229,unemployed,'no known property',38,good
+'existing paid',2141,4<=X<7,'no known property',35,good
+'existing paid',1262,1<=X<4,car,25,good
+'no credits/all paid',4110,>=7,'no known property',23,bad
+'critical/other existing credit',1316,1<=X<4,'life insurance',47,good
+'existing paid',2579,<1,'real estate',33,bad
+'delayed previously',12749,4<=X<7,car,37,good
+'existing paid',3021,1<=X<4,'real estate',24,good
+'existing paid',2762,>=7,'life insurance',25,bad
+'existing paid',1538,<1,'no known property',56,good
+'existing paid',652,>=7,'life insurance',24,good
+'existing paid',1474,<1,'life insurance',33,good
+'existing paid',1381,1<=X<4,'life insurance',35,bad
+'existing paid',10961,4<=X<7,'no known property',27,bad
+'existing paid',1823,unemployed,car,30,bad
+'existing paid',2835,>=7,'life insurance',53,good
+'delayed previously',4679,4<=X<7,car,35,good
+'existing paid',7166,4<=X<7,'life insurance',29,good
+'critical/other existing credit',701,1<=X<4,car,32,good
+'delayed previously',9572,<1,car,28,bad
+'critical/other existing credit',6314,unemployed,'no known property',27,good
+'all paid',3552,4<=X<7,car,27,bad
+'delayed previously',2247,1<=X<4,car,36,good
+'critical/other existing credit',882,<1,'real estate',23,good
+'delayed previously',2320,unemployed,'real estate',34,good
+'all paid',1198,>=7,'no known property',35,bad
+'existing paid',1413,4<=X<7,'life insurance',55,good
+'all paid',2828,1<=X<4,'real estate',22,good
+'all paid',14782,>=7,'no known property',60,bad
+'critical/other existing credit',4526,<1,'real estate',32,good
+'critical/other existing credit',1537,>=7,'real estate',50,good
+'existing paid',7393,1<=X<4,'life insurance',43,good
+'critical/other existing credit',10127,1<=X<4,'no known property',44,bad
+'existing paid',2186,4<=X<7,'real estate',33,good
+'existing paid',1274,<1,'real estate',37,bad
+'delayed previously',1659,<1,car,29,bad
+'all paid',2149,1<=X<4,'no known property',29,bad
+'critical/other existing credit',6070,>=7,car,33,good
+'existing paid',2576,1<=X<4,'real estate',35,good
+'existing paid',1131,unemployed,car,33,bad
+'critical/other existing credit',1526,>=7,'no known property',66,good
+'existing paid',2896,<1,car,29,good
+'existing paid',2002,4<=X<7,'life insurance',30,good
+'critical/other existing credit',6110,1<=X<4,'no known property',31,good
+'critical/other existing credit',6229,<1,'no known property',23,bad
+'existing paid',3186,4<=X<7,car,20,good
+'existing paid',2221,1<=X<4,car,20,good
+'critical/other existing credit',3565,<1,'life insurance',37,good
+'existing paid',7476,4<=X<7,'no known property',50,good
+'all paid',697,<1,car,46,bad
+'critical/other existing credit',3780,<1,car,35,good
+'existing paid',5848,1<=X<4,car,24,good
+'all paid',1193,unemployed,'no known property',29,bad
+'delayed previously',3414,<1,'life insurance',26,bad
+'critical/other existing credit',1323,>=7,car,28,good
+'critical/other existing credit',2799,1<=X<4,'real estate',36,good
+'existing paid',1076,1<=X<4,'real estate',26,good
+'existing paid',3017,<1,'real estate',34,good
+'existing paid',2812,>=7,'real estate',26,good
+'existing paid',1249,<1,'real estate',28,good
+'critical/other existing credit',9566,1<=X<4,car,31,good
+'delayed previously',1050,unemployed,'life insurance',35,good
+'existing paid',5433,unemployed,'life insurance',26,good
+'existing paid',448,<1,'life insurance',23,bad
+'critical/other existing credit',6761,4<=X<7,'no known property',45,good
+'critical/other existing credit',1898,1<=X<4,'real estate',34,good
+'critical/other existing credit',1255,>=7,'real estate',61,good
+'critical/other existing credit',1138,1<=X<4,'real estate',25,good
+'existing paid',2249,4<=X<7,car,30,good
+'critical/other existing credit',3342,>=7,car,51,good
+'existing paid',5943,<1,car,44,bad
+'existing paid',2779,1<=X<4,car,21,good
+'critical/other existing credit',8065,1<=X<4,'no known property',25,bad
+'existing paid',3195,1<=X<4,'real estate',33,good
+'existing paid',888,>=7,car,41,bad
+'critical/other existing credit',2337,>=7,'real estate',36,good
+'existing paid',719,>=7,car,41,bad
+'delayed previously',7238,>=7,car,32,good
+'existing paid',2892,>=7,'no known property',51,good
+'existing paid',2133,>=7,'no known property',52,good
+'critical/other existing credit',3612,>=7,'life insurance',37,good
+'critical/other existing credit',1237,1<=X<4,'life insurance',27,good
+'delayed previously',5965,>=7,car,30,good
+'existing paid',2708,<1,'life insurance',27,good
+'existing paid',14896,>=7,'no known property',68,bad
+'all paid',409,1<=X<4,'real estate',42,good
+'existing paid',1037,4<=X<7,'real estate',39,good
+'delayed previously',2993,1<=X<4,'real estate',28,good
+'existing paid',3757,>=7,'no known property',62,good
+'all paid',1264,1<=X<4,'life insurance',25,bad
+'existing paid',1768,1<=X<4,'real estate',24,good
+'critical/other existing credit',1934,>=7,'no known property',26,good
+'existing paid',3069,>=7,'no known property',30,good
+'existing paid',12612,1<=X<4,'no known property',47,bad
+'critical/other existing credit',2181,>=7,'real estate',36,good
+'critical/other existing credit',1049,<1,'life insurance',21,good
+'existing paid',1474,<1,'real estate',33,good
+'critical/other existing credit',1190,unemployed,'no known property',55,bad
+'existing paid',5866,1<=X<4,car,30,good
+'existing paid',5152,4<=X<7,car,25,good
+'existing paid',3568,>=7,car,54,good
+'delayed previously',7980,<1,car,27,bad
+'existing paid',3448,4<=X<7,'real estate',74,good
+'critical/other existing credit',1412,1<=X<4,'real estate',29,good
+'existing paid',709,>=7,'real estate',57,bad
+'critical/other existing credit',1347,4<=X<7,'life insurance',27,good
+'all paid',2746,>=7,car,31,bad
+'existing paid',1372,4<=X<7,car,36,bad
+'critical/other existing credit',1860,unemployed,car,34,good
+'critical/other existing credit',1344,4<=X<7,'real estate',37,bad
+'existing paid',1371,1<=X<4,'real estate',25,bad
+'existing paid',1301,>=7,'real estate',32,good
+'existing paid',2859,unemployed,'no known property',38,good
+'delayed previously',8471,1<=X<4,car,23,good
+'existing paid',1168,1<=X<4,'real estate',27,good
+'existing paid',1236,<1,'real estate',23,good
+'existing paid',8487,4<=X<7,car,24,good
+'existing paid',3832,>=7,'real estate',64,good
+'existing paid',9960,<1,car,26,bad
+'critical/other existing credit',2235,1<=X<4,'life insurance',33,bad
+'existing paid',1494,<1,'real estate',29,good
+'existing paid',1366,<1,'life insurance',22,bad
+'critical/other existing credit',4139,1<=X<4,'life insurance',27,good
+'existing paid',11998,<1,'no known property',34,bad
+'existing paid',2030,4<=X<7,car,24,good
+'all paid',2325,4<=X<7,car,32,good
+'existing paid',1905,>=7,car,40,good
+'no credits/all paid',4165,1<=X<4,car,36,bad
+'critical/other existing credit',2348,1<=X<4,'life insurance',46,good
+'existing paid',3556,1<=X<4,'no known property',29,good
+'critical/other existing credit',3850,4<=X<7,car,27,good
+'existing paid',1577,<1,'real estate',20,good
+'existing paid',1913,<1,'real estate',36,good
+'existing paid',12579,>=7,'no known property',44,bad
+'critical/other existing credit',1295,<1,'life insurance',27,good
+'critical/other existing credit',2241,<1,'real estate',48,good
+'existing paid',1201,<1,'life insurance',26,good
+'critical/other existing credit',3966,>=7,'real estate',33,bad
+'existing paid',3872,unemployed,car,67,good
+'existing paid',2901,<1,'real estate',31,good
+'existing paid',2241,>=7,'real estate',50,good
+'critical/other existing credit',2872,>=7,'real estate',36,good
+'delayed previously',2064,unemployed,'life insurance',34,bad
+'delayed previously',6403,<1,car,33,good
+'existing paid',1984,1<=X<4,'no known property',47,good
+'existing paid',874,<1,'real estate',24,good
+'no credits/all paid',11816,>=7,car,29,bad
+'critical/other existing credit',3573,1<=X<4,'real estate',23,good
+'no credits/all paid',2759,>=7,'life insurance',34,good
+'critical/other existing credit',2406,unemployed,car,31,good
+'existing paid',1282,1<=X<4,car,20,bad
+'delayed previously',1344,1<=X<4,'real estate',43,good
+'existing paid',1207,<1,'life insurance',24,bad
+'delayed previously',4455,1<=X<4,'real estate',30,bad
+'existing paid',3973,unemployed,'no known property',22,good
+'critical/other existing credit',1957,4<=X<7,car,31,good
+'all paid',6872,<1,'life insurance',55,bad
+'critical/other existing credit',8386,4<=X<7,'life insurance',49,bad
+'existing paid',976,<1,car,23,bad
+'existing paid',2671,1<=X<4,'no known property',50,bad
+'all paid',3496,1<=X<4,car,34,good
+'critical/other existing credit',4746,<1,'life insurance',25,bad
+'existing paid',5511,1<=X<4,car,25,good
+'existing paid',2991,>=7,car,25,good
+'critical/other existing credit',2080,1<=X<4,car,24,good
+'existing paid',1552,4<=X<7,car,32,good
+'existing paid',1237,1<=X<4,'real estate',24,bad
+'existing paid',3029,4<=X<7,car,33,good
+'existing paid',6568,1<=X<4,car,21,good
+'critical/other existing credit',2775,4<=X<7,'life insurance',31,bad
+'existing paid',2073,1<=X<4,'real estate',28,good
+'existing paid',2670,>=7,car,35,good
+'existing paid',836,<1,'life insurance',23,bad
+'existing paid',763,1<=X<4,'real estate',26,good
+'existing paid',4380,1<=X<4,car,35,good
+'delayed previously',2899,>=7,car,43,good
+'existing paid',1574,1<=X<4,'real estate',50,good
+'critical/other existing credit',12680,>=7,'no known property',30,bad
+'critical/other existing credit',1343,>=7,'real estate',46,good
+'existing paid',1925,1<=X<4,'real estate',26,good
+'critical/other existing credit',2957,>=7,'life insurance',63,good
+'delayed previously',2375,1<=X<4,car,44,good
+'critical/other existing credit',930,>=7,'real estate',65,good
+'critical/other existing credit',10477,>=7,'no known property',42,good
+'existing paid',1283,4<=X<7,'life insurance',25,good
+'delayed previously',585,1<=X<4,'real estate',20,good
+'existing paid',5248,1<=X<4,car,26,good
+'no credits/all paid',426,>=7,car,39,good
+'existing paid',1845,<1,'life insurance',46,good
+'existing paid',4351,1<=X<4,'life insurance',48,good
+'delayed previously',6204,1<=X<4,'real estate',44,good
+'existing paid',1346,>=7,'no known property',42,good
+'critical/other existing credit',1199,>=7,car,60,bad
+'existing paid',1736,4<=X<7,'real estate',31,good
+'delayed previously',2032,>=7,'no known property',60,good
+'no credits/all paid',7119,1<=X<4,'no known property',53,bad
+'critical/other existing credit',6187,4<=X<7,car,24,good
+'existing paid',1449,4<=X<7,car,27,good
+'existing paid',1386,1<=X<4,'life insurance',26,bad
+'existing paid',1289,1<=X<4,'life insurance',21,good
+'critical/other existing credit',4042,1<=X<4,'real estate',36,good
+'existing paid',1597,1<=X<4,'no known property',40,good
+'critical/other existing credit',7253,4<=X<7,car,35,good
+'critical/other existing credit',1299,1<=X<4,'real estate',74,good
+'existing paid',1297,1<=X<4,'real estate',23,good
+'delayed previously',802,1<=X<4,car,27,good
+'critical/other existing credit',1582,>=7,car,46,good
+'all paid',3632,1<=X<4,car,22,good
+'existing paid',1393,>=7,'life insurance',47,good
+'existing paid',3621,>=7,car,31,bad
+'delayed previously',2580,<1,'real estate',41,bad
+'existing paid',1258,1<=X<4,car,57,good
+'no credits/all paid',1082,1<=X<4,car,48,bad
+'critical/other existing credit',1592,4<=X<7,'life insurance',35,good
+'existing paid',2397,>=7,car,35,bad
+'all paid',1437,4<=X<7,'no known property',29,bad
+'critical/other existing credit',1851,4<=X<7,car,33,good
+'existing paid',790,1<=X<4,'real estate',66,good
+'existing paid',1572,>=7,'real estate',36,good
+'existing paid',2528,<1,'life insurance',32,good
+'existing paid',3092,<1,car,22,bad
+'existing paid',983,<1,'real estate',19,good
+'all paid',3161,1<=X<4,'life insurance',31,bad
+'delayed previously',4870,1<=X<4,'no known property',53,bad
+'existing paid',937,<1,car,27,good
+'existing paid',3108,<1,'life insurance',31,bad
+'existing paid',1225,1<=X<4,car,37,good
+'critical/other existing credit',1224,1<=X<4,'real estate',30,good
+'existing paid',2284,4<=X<7,car,28,good
+'existing paid',4057,4<=X<7,car,43,bad
+'existing paid',3812,<1,car,23,good
+'existing paid',7408,<1,'life insurance',24,bad
+'all paid',3566,4<=X<7,car,30,good
+'existing paid',915,>=7,car,29,bad
+'no credits/all paid',2969,<1,'life insurance',25,bad
+'existing paid',1126,>=7,'real estate',49,good
+'existing paid',7511,>=7,'life insurance',51,bad
+'existing paid',10974,unemployed,car,26,bad
+'existing paid',806,1<=X<4,'life insurance',22,good
+'critical/other existing credit',1516,1<=X<4,'real estate',43,good
+'critical/other existing credit',717,>=7,'real estate',52,good
+'existing paid',1938,<1,'life insurance',32,bad
+'existing paid',3446,>=7,car,42,bad
+'critical/other existing credit',1258,<1,'life insurance',22,good
+'critical/other existing credit',1185,1<=X<4,'real estate',27,good
+'critical/other existing credit',1056,>=7,'real estate',30,bad
+'critical/other existing credit',11590,1<=X<4,car,24,bad
+'existing paid',1858,<1,car,22,good
+'delayed previously',1024,<1,'real estate',48,bad
+'existing paid',3441,1<=X<4,car,21,bad
+'all paid',1358,>=7,car,40,bad
+'existing paid',1338,1<=X<4,'real estate',62,good
+'existing paid',2210,1<=X<4,'real estate',25,bad
+'existing paid',392,<1,'life insurance',23,good
+'critical/other existing credit',3017,>=7,'life insurance',47,good
+'existing paid',3123,<1,'life insurance',27,bad
+'no credits/all paid',1778,<1,'real estate',26,bad
+'existing paid',707,1<=X<4,'real estate',30,good
+'existing paid',6579,unemployed,'no known property',29,good
+'critical/other existing credit',4736,<1,car,25,bad
+'existing paid',1042,1<=X<4,'life insurance',33,bad
+'critical/other existing credit',1471,1<=X<4,'no known property',35,good
+'existing paid',708,1<=X<4,'life insurance',38,good
+'existing paid',2622,1<=X<4,car,34,good
+'existing paid',3345,>=7,'life insurance',39,bad
+'no credits/all paid',14421,1<=X<4,car,25,bad
+'existing paid',639,1<=X<4,car,30,bad
+'critical/other existing credit',2424,>=7,'life insurance',53,good
+'existing paid',3979,4<=X<7,car,41,good
+'existing paid',3832,<1,'life insurance',22,good
+'existing paid',6078,4<=X<7,car,32,good
+'critical/other existing credit',1795,>=7,'real estate',48,good
+'existing paid',2753,>=7,car,35,good
+'existing paid',3931,4<=X<7,'no known property',46,bad
+'critical/other existing credit',1919,4<=X<7,car,35,good
+'existing paid',6761,1<=X<4,car,68,bad
+'existing paid',1216,<1,car,23,bad
+'existing paid',2299,>=7,car,39,good
+'critical/other existing credit',2223,>=7,'life insurance',52,good
+'existing paid',1422,<1,'no known property',27,bad
+'existing paid',428,>=7,'life insurance',49,good
+'critical/other existing credit',797,>=7,'life insurance',33,bad
+'existing paid',4439,>=7,'real estate',33,good
+'critical/other existing credit',1136,>=7,'no known property',32,bad
+'all paid',6416,>=7,'no known property',59,bad
+'existing paid',3512,4<=X<7,car,38,good
+'critical/other existing credit',1361,<1,'real estate',40,good
+'existing paid',2063,<1,car,30,good
+'critical/other existing credit',2684,1<=X<4,'real estate',35,good
+'existing paid',1567,1<=X<4,car,22,good
+'critical/other existing credit',1231,>=7,'life insurance',57,good
+'critical/other existing credit',1175,unemployed,car,68,good
+'existing paid',3062,>=7,'no known property',32,good
+'critical/other existing credit',3590,unemployed,car,40,good
+'existing paid',999,>=7,car,25,good
+'delayed previously',2333,<1,'life insurance',29,good
+'existing paid',1311,4<=X<7,'life insurance',26,good
+'critical/other existing credit',2288,<1,'life insurance',23,good
+'critical/other existing credit',1743,>=7,'life insurance',48,good
+'critical/other existing credit',781,>=7,'no known property',63,good
+'existing paid',14027,4<=X<7,'no known property',27,bad
+'existing paid',684,1<=X<4,car,40,bad
+'critical/other existing credit',5804,1<=X<4,'real estate',27,good
+'all paid',931,<1,'life insurance',32,bad
+'critical/other existing credit',1291,1<=X<4,'life insurance',35,good
+'critical/other existing credit',1221,1<=X<4,'life insurance',27,good
+'delayed previously',10875,>=7,car,45,good
+'no credits/all paid',6199,1<=X<4,'life insurance',28,bad
+'existing paid',5084,>=7,car,42,good
+'critical/other existing credit',522,>=7,'life insurance',42,good
+'delayed previously',2145,4<=X<7,car,24,bad
+'existing paid',3620,1<=X<4,'life insurance',37,good
+'existing paid',1505,1<=X<4,'no known property',32,good
+'existing paid',4153,1<=X<4,car,42,bad
+'existing paid',590,<1,'real estate',26,good
+'critical/other existing credit',2788,4<=X<7,car,24,good
+'existing paid',4811,4<=X<7,'life insurance',24,good
+?,2520,1<=X<4,'life insurance',23,bad
+'existing paid',1595,4<=X<7,'life insurance',51,good
+'existing paid',2100,1<=X<4,'real estate',37,bad
+'critical/other existing credit',5234,unemployed,car,28,bad
+'existing paid',4611,<1,'life insurance',32,bad
+'delayed previously',9157,1<=X<4,'no known property',27,good
+'existing paid',2116,1<=X<4,'real estate',41,good
+'existing paid',2978,1<=X<4,car,32,good
+'existing paid',2577,1<=X<4,car,42,good
+'existing paid',804,>=7,car,?,good
+'critical/other existing credit',2058,1<=X<4,'real estate',33,good
+'critical/other existing credit',5842,>=7,'life insurance',35,good
+'existing paid',1007,1<=X<4,'real estate',22,good
