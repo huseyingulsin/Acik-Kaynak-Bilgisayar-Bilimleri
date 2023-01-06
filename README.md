@@ -400,6 +400,7 @@ Ders | Süre | Efor |  Tartışma
 [Introduction to Bioinformatics (Prof. Dr. Tolga Can - ODTU)](https://www.youtube.com/watch?v=eZfyWdHnzR0&list=PLuiPz6iU5SQ-PAjlyz4b3EIIQ6dpZ2DE_) - [docs](https://ocw.metu.edu.tr/course/view.php?id=37) | 17 video | 2 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Optimization Algorithms (Prof. Dr. Constantine Caramanis - Texas University)](https://www.youtube.com/watch?v=ee-HYD6kKqM&list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc) | 58 video | 6 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Deep Learning (Prof. Dr. Andrew Ng - Stanford University)](https://www.coursera.org/specializations/deep-learning) | -| - |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Machine Learning (Prof. Dr. Andrew Ng - Stanford University)](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) | 20 | 2 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Performance Engineering of Software Systems, (Prof. Charles Leiserson - MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf) | 23 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 
 ## Sık Sorulan Sorular
