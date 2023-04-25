@@ -227,7 +227,7 @@ Bilgisayar Bilimleri eğitimi alırken bilgisayar donanımına Sayısal Tasarım
 
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
-[Sayısal Tasarım (Numerical Design)](https://www.youtube.com/watch?v=q3cjsh3Ur2g&list=PLdcoZed79ZuckfFQIT_t8PQuSBHFK_H-s) | 106 video | 10 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Sayısal Tasarım (Numerical Design) (Prof. Dr. Oğuz Ergin)](https://www.youtube.com/watch?v=T40YhntA_zs&list=PLvNq8wrSYGAVB2spsV_hoOZW-ogot4Gd2) | 54 video | 5 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Alternatif Kaynak(Kitap): Sayısal Tasarım - Morris Mano] | 500 sayfa | - |  [chat](https://discord.com/invite/BcqMBxPBME)
 
 
@@ -350,8 +350,8 @@ Bilgisayar Bilimleri'nde bilgisayar organizasyonu, (veya bazen mikromimari de de
 
 Ders | Süre | Efor |  Tartışma
 :-- | :--: | :--: | :--:
-[Bilgisayar Organizasyonu (Computer Organization)](https://www.youtube.com/watch?v=XeAhz1bp1BY&list=PLvNq8wrSYGAU6CF4UleG6HbXa9paQDsLK) | 47 video | 5 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
-[Computer Organization (William Sawyer - Bilkent University)](https://www.youtube.com/watch?v=CDO28Esqmcg&list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu) | 47 video | 5 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Bilgisayar Organizasyonu (Computer Organization) (Prof. Dr. Oğuz Ergin)](https://www.youtube.com/watch?v=XeAhz1bp1BY&list=PLvNq8wrSYGAU6CF4UleG6HbXa9paQDsLK) | 47 video | 5 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Ek Kaynak: Computer Organization (William Sawyer - Bilkent University)](https://www.youtube.com/watch?v=CDO28Esqmcg&list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu) | 47 video | 5 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Ek Kaynak: Morris Mano Bilgisayar Sistemleri Mimarisi Kitabı] | 500 sayfa | - |  [chat](https://discord.com/invite/BcqMBxPBME)
 
 #### Bilgisayar Ağları (Computer Networks)
