@@ -257,9 +257,8 @@ Bilgisayar Bilimlerinin en önemli derslerinden birisi olan İşletim Sistemleri
 
 Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
-[İşletim Sistemleri (Operating Systems)](https://www.youtube.com/watch?v=r2q_XRKrqHQ&list=PLh9ECzBB8tJO9eiwfQbcA2ThMbUSkbOWf) | 33 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
-[Alternatif: Operating Systems (Prof. Dr. İbrahim Körpeoğlu - Bilkent University)](https://www.youtube.com/watch?v=9ci5g49nfdE&list=PLhwVAYxlh5dsX6aOfVMZXS8MwKwBmwVM6) | 48 video | 5 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
-
+[İşletim Sistemleri (Operating Systems) (Prof. Dr. Kemal Bıçakcı](https://youtube.com/playlist?list=PLmPsb7nQhv7NLRWdIiDVNBDCMOtuUn6WZ) | 13 video | 2 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Ek: İşletim Sistemleri (Operating Systems) (Prof. Dr. Şadi Evren Şeker](https://www.youtube.com/watch?v=r2q_XRKrqHQ&list=PLh9ECzBB8tJO9eiwfQbcA2ThMbUSkbOWf) | 33 video | 3 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 
 #### Nesneye Yönelik Programlama (Object-Oriented Programming)
 
