@@ -62,7 +62,7 @@ Aynı zamanda bu reponun esinlenildiği İngilizce versiyonu için göz atabilir
 
 ---
 Discord: https://discord.com/invite/BcqMBxPBME
-Telegram: [https://t.me/csarchive](https://t.me/csarchive)
+Telegram: [https://t.me/bbtizmir](https://t.me/bbtizmir)
 
 
 
