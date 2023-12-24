@@ -1,1 +1,0 @@
-Nesneye Yönelik Programlama(OOP)
