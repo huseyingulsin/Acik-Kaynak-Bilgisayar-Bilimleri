@@ -229,6 +229,7 @@ Ders | Süre | Efor | Tartışma
 :-- | :--: | :--: | :--:
 [Sayısal Tasarım (Numerical Design) (Prof. Dr. Oğuz Ergin)](https://www.youtube.com/watch?v=T40YhntA_zs&list=PLvNq8wrSYGAVB2spsV_hoOZW-ogot4Gd2) | 54 video | 5 video/hafta |  [chat](https://discord.com/invite/BcqMBxPBME)
 [Alternatif Kaynak(Kitap): Sayısal Tasarım - Morris Mano] | 500 sayfa | - |  [chat](https://discord.com/invite/BcqMBxPBME)
+[Ek Kaynak: digiwleea - Tarayıcıda transistörden 8-bit işlemciye interaktif lab (İngilizce)](https://digiwleea.wleeaf.dev/) | 34 seviye | - |  [chat](https://discord.com/invite/BcqMBxPBME)
 
 
 ## 4. dönem 
